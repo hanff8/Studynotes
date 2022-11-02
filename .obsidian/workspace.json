@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WSL2 & ArchLinux via lxrunoffline.md",
+                "file": "git 相关设置.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,9 +78,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WSL2 & ArchLinux via lxrunoffline.md",
-                "collapseAll": true,
-                "extraContext": true,
+                "file": "git 相关设置.md",
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 360.5
   },
   "active": "96c7b330e508d8a7",
   "lastOpenFiles": [

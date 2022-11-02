@@ -3,5 +3,7 @@
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-dictionary-plugin",
   "obsidian-icons-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-version-history-diff",
+  "obsidian-outliner"
 ]

@@ -22,3 +22,17 @@ git remote
 git remote -v
 
 ```
+多账户设置
+```bash
+# 配置config
+vim ~/.ssh/config
+
+
+# config
+
+Host github.com
+	User xxx
+	IdentityFile ~/.ssh	
+
+
+```
