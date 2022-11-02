@@ -14,20 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "WSL2 & ArchLinux via lxrunoffline.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "550ae3c6dbefddd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WSL2 & ArchLinux via lxrunoffline.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
