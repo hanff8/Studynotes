@@ -1,0 +1,123 @@
+{
+  "main": {
+    "id": "23d89d9aebfaa23f",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd8972f5c7300220",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96c7b330e508d8a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WSL2 & ArchLinux via lxrunoffice.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "550ae3c6dbefddd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WSL2 & ArchLinux via lxrunoffice.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c7e38323580b121",
+    "type": "split",
+    "children": [
+      {
+        "id": "1eeb8f1dd58c2856",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c8211eacd03431b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8e8fc1081e10ab4b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "34c32c0e729a7c6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e597718e99b708fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0072bcf49a5045af",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "WSL2 & ArchLinux via lxrunoffice.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 294
+  },
+  "active": "9c8211eacd03431b",
+  "lastOpenFiles": [
+    "scoop 相关.md",
+    "WSL2 & ArchLinux via lxrunoffice.md",
+    "Ubuntu&&wsl相关配置.md",
+    "代理相关.md",
+    "README.md",
+    "git 相关设置.md",
+    "Config配置列表.md",
+    "Ubuntu 换源.md",
+    "switchOmega 代理.md"
+  ]
+}
