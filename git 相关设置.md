@@ -22,6 +22,7 @@ git remote
 git remote -v
 
 ```
+
 多账户设置
 ```bash
 # 配置config
@@ -32,7 +33,10 @@ vim ~/.ssh/config
 
 Host github.com
 	User xxx
-	IdentityFile ~/.ssh	
+	IdentityFile ~/.ssh/loomingF/id_rsa
+	PreferredAuthentications publickey
 
 
+# 检测链接
+ssh -T git@github.com
 ```
