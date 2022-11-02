@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WSL2 & ArchLinux via lxrunoffice.md",
+                "file": "WSL2 & ArchLinux via lxrunoffine.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WSL2 & ArchLinux via lxrunoffice.md",
+                "file": "WSL2 & ArchLinux via lxrunoffine.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,8 +91,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WSL2 & ArchLinux via lxrunoffice.md",
-                "collapseAll": false,
+                "file": "WSL2 & ArchLinux via lxrunoffine.md",
+                "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -106,12 +106,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294
+    "width": 200,
+    "collapsed": true
   },
-  "active": "9c8211eacd03431b",
+  "active": "0072bcf49a5045af",
   "lastOpenFiles": [
+    "WSL2 & ArchLinux via lxrunoffine.md",
     "scoop 相关.md",
-    "WSL2 & ArchLinux via lxrunoffice.md",
     "Ubuntu&&wsl相关配置.md",
     "代理相关.md",
     "README.md",

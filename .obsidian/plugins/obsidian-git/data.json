@@ -10,7 +10,7 @@
   "listChangedFilesInMessageBody": true,
   "showStatusBar": true,
   "updateSubmodules": false,
-  "gitPath": "D:\\Application\\scoop\\apps\\git\\current\\bin\\git.exe",
+  "gitPath": "D:\\Applications\\Scoop\\apps\\git\\current\\bin\\git.exe",
   "customMessageOnAutoBackup": true,
   "autoBackupAfterFileChange": false,
   "mergeOnPull": true,
