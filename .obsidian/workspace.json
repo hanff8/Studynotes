@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Config配置列表.md",
+                "file": "git 相关设置.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Config配置列表.md",
+                "file": "git 相关设置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,10 +98,10 @@
   },
   "active": "96c7b330e508d8a7",
   "lastOpenFiles": [
-    "代理相关.md",
     "README.md",
-    "git 相关设置.md",
     "Config配置列表.md",
+    "代理相关.md",
+    "git 相关设置.md",
     "WSL2 & ArchLinux via lxrunoffline.md",
     "scoop 相关.md",
     "Ubuntu&&wsl相关配置.md",
