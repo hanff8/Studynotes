@@ -1,6 +1,7 @@
 {
   "baseFontSize": 16,
   "translucency": true,
-  "cssTheme": "Atom",
-  "accentColor": ""
+  "cssTheme": "Things",
+  "accentColor": "",
+  "theme": "system"
 }
