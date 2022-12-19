@@ -1,4 +1,4 @@
-```c++
+```cpp
 //KMP
 int findByKMP(vector<int>& s,int k,vector<int>& p) {
 	int m=p.size(),n=s.size();

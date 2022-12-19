@@ -11,15 +11,15 @@ dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux 
 dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
 ```
 
-下载Linux内核升级包
-https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi
+[下载Linux内核升级包](
+https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi)
 
 设置wsl2为默认版本
 ```powershell
 wsl --set-default-version 2
 ```
 
-安装LxRunOffline
+ 安装LxRunOffline
 
 先安装scoop [[scoop 相关]]
 ``` powershell
