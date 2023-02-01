@@ -5,6 +5,8 @@
   "graph",
   "backlink",
   "canvas",
+  "outgoing-link",
+  "tag-pane",
   "page-preview",
   "daily-notes",
   "note-composer",
@@ -12,6 +14,7 @@
   "slash-command",
   "editor-status",
   "markdown-importer",
+  "outline",
   "word-count",
   "workspaces",
   "file-recovery"

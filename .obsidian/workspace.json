@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WSL2 & ArchLinux via lxrunoffline.md",
+                "file": "算法/模板/KMP算法.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -21,14 +21,20 @@
             }
           },
           {
-            "id": "ec1bbe19d324b76b",
+            "id": "8007947d1bd11dd2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "算法/模板/二分搜索.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WSL2 & ArchLinux via lxrunoffline.md",
+                "file": "算法/模板/二分搜索.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,6 +100,39 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "650cdcc7258979bf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7d18565a5af98134",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "算法/模板/二分搜索.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6bd829c912c598bd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "算法/模板/二分搜索.md"
               }
             }
           }
@@ -106,26 +145,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "workspaces:Manage workspace layouts": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "workspaces:管理工作区布局": false,
+      "canvas:Create new canvas": false
     }
   },
-  "active": "96c7b330e508d8a7",
+  "active": "9c8211eacd03431b",
   "lastOpenFiles": [
+    "算法/模板/KMP算法.md",
+    "算法/模板/二分搜索.md",
     "WSL2 & ArchLinux via lxrunoffline.md",
     "ArchLinux/遇到的问题.md",
     "ArchLinux/app.md",
     "Ubuntu&&wsl相关配置.md",
-    "算法/模板/KMP算法.md",
     "ArchLinux/archlinux-wayland.md",
     "git 相关设置.md",
     "README.md",
-    "Config配置列表.md",
-    "代理相关.md"
+    "Config配置列表.md"
   ]
 }
