@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法/模板/二分搜索.md",
-                "mode": "source",
+                "file": "算法/模板/二维数组的前缀和.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -92,8 +92,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法/模板/二分搜索.md",
-                "collapseAll": false,
+                "file": "算法/模板/二维数组的前缀和.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -110,7 +110,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法/模板/二分搜索.md",
+                "file": "算法/模板/二维数组的前缀和.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,11 +132,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "算法/模板/二分搜索.md"
+                "file": "算法/模板/二维数组的前缀和.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -154,17 +155,17 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "9c8211eacd03431b",
+  "active": "8007947d1bd11dd2",
   "lastOpenFiles": [
     "算法/模板/KMP算法.md",
     "算法/模板/二分搜索.md",
+    "未命名.canvas",
+    "2023-02-17.md",
+    "算法/模板/二维数组的前缀和.md",
     "WSL2 & ArchLinux via lxrunoffline.md",
     "ArchLinux/遇到的问题.md",
     "ArchLinux/app.md",
     "Ubuntu&&wsl相关配置.md",
-    "ArchLinux/archlinux-wayland.md",
-    "git 相关设置.md",
-    "README.md",
-    "Config配置列表.md"
+    "ArchLinux/archlinux-wayland.md"
   ]
 }

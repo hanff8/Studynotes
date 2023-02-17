@@ -1,1 +1,11 @@
-{}
+{
+  "app:show-debug-info": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "I"
+    }
+  ]
+}
