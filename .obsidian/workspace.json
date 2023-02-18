@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法/模板/二维数组的前缀和.md",
+                "file": "算法/模板/二分搜索.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法/模板/二维数组的前缀和.md",
+                "file": "算法/模板/二分搜索.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法/模板/二维数组的前缀和.md",
+                "file": "算法/模板/二分搜索.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "算法/模板/二维数组的前缀和.md"
+                "file": "算法/模板/二分搜索.md"
               }
             }
           }
@@ -157,15 +157,15 @@
   },
   "active": "8007947d1bd11dd2",
   "lastOpenFiles": [
-    "算法/模板/KMP算法.md",
+    "ArchLinux/app.md",
+    "ArchLinux/遇到的问题.md",
+    "Config配置列表.md",
     "算法/模板/二分搜索.md",
+    "WSL2 & ArchLinux via lxrunoffline.md",
+    "算法/模板/二维数组的前缀和.md",
+    "算法/模板/KMP算法.md",
     "未命名.canvas",
     "2023-02-17.md",
-    "算法/模板/二维数组的前缀和.md",
-    "WSL2 & ArchLinux via lxrunoffline.md",
-    "ArchLinux/遇到的问题.md",
-    "ArchLinux/app.md",
-    "Ubuntu&&wsl相关配置.md",
-    "ArchLinux/archlinux-wayland.md"
+    "Ubuntu&&wsl相关配置.md"
   ]
 }
