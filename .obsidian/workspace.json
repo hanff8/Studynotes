@@ -65,8 +65,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/未命名.md",
-                "mode": "source",
+                "file": "ArchLinux/遇到的问题.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/未命名.md",
+                "file": "ArchLinux/遇到的问题.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java/未命名.md",
+                "file": "ArchLinux/遇到的问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java/未命名.md"
+                "file": "ArchLinux/遇到的问题.md"
               }
             }
           }
@@ -185,17 +185,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "daily-notes:打开/创建今天的日记": false,
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
-      "workspaces:管理工作区布局": false,
-      "canvas:Create new canvas": false
+      "workspaces:管理工作区布局": false
     }
   },
   "active": "fe7405e039c40b84",
   "lastOpenFiles": [
+    "java/未命名.md",
     "算法/模板/二分查找.md",
     "算法/模板/KMP算法.md",
     "算法/模板/二维数组的前缀和.md",
