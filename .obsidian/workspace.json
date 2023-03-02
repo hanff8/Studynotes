@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4d8ce709264e65f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "算法/模板/KMP算法.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ArchLinux/遇到的问题.md",
+                "file": "算法/模板/KMP算法.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ArchLinux/遇到的问题.md",
+                "file": "算法/模板/KMP算法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ArchLinux/遇到的问题.md"
+                "file": "算法/模板/KMP算法.md"
               }
             }
           }
@@ -155,21 +168,25 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "8007947d1bd11dd2",
+  "active": "4d8ce709264e65f7",
   "lastOpenFiles": [
+    "算法/模板/二维数组的前缀和.md",
+    "算法/模板/二分搜索.md",
+    "算法/模板/二分查找.md",
+    "java/Java-Web.md",
+    "Spring/定制Bean.md",
+    "maven/自定义archetypoe.md",
+    "conflict-files-obsidian-git.md",
+    "ArchLinux/遇到的问题.md",
+    "未命名.canvas",
+    "ArchLinux/系统迁移.md",
     "ArchLinux/app.md",
     "ArchLinux/archlinux-wayland.md",
     "WSL2 & ArchLinux via lxrunoffline.md",
-    "maven/自定义archetypoe.md",
     "maven",
     "java/未命名.md",
     "java",
-    "Spring/定制Bean.md",
     "Spring",
-    "未命名.canvas",
-    "ArchLinux/遇到的问题.md",
-    "算法/模板/二分搜索.md",
-    "算法/模板/二维数组的前缀和.md",
     "Config配置列表.md",
     "算法/模板/KMP算法.md",
     "2023-02-17.md"
