@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ArchLinux/archlinux-wayland.md",
+                "file": "ArchLinux/系统迁移.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ArchLinux/archlinux-wayland.md",
+                "file": "ArchLinux/系统迁移.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ArchLinux/archlinux-wayland.md",
+                "file": "ArchLinux/系统迁移.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ArchLinux/archlinux-wayland.md"
+                "file": "ArchLinux/系统迁移.md"
               }
             }
           }
@@ -157,16 +157,19 @@
   },
   "active": "8007947d1bd11dd2",
   "lastOpenFiles": [
+    "ArchLinux/遇到的问题.md",
+    "ArchLinux/系统迁移.md",
+    "Spring/定制Bean.md",
     "maven/自定义archetypoe.md",
+    "java/Java-Web.md",
+    "代理相关.md",
+    "ArchLinux/archlinux-wayland.md",
     "maven",
     "java/未命名.md",
     "java",
-    "Spring/定制Bean.md",
     "Spring",
     "未命名.canvas",
-    "ArchLinux/遇到的问题.md",
     "ArchLinux/app.md",
-    "ArchLinux/archlinux-wayland.md",
     "算法/模板/二分搜索.md",
     "算法/模板/二维数组的前缀和.md",
     "Config配置列表.md",
