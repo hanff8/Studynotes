@@ -4,16 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "43e38d2b32645d6d",
+        "id": "bd8972f5c7300220",
         "type": "tabs",
         "children": [
           {
-            "id": "ee350eaf5c7d7208",
+            "id": "96c7b330e508d8a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WSL2 & ArchLinux via lxrunoffline.md",
+                "file": "算法/模板/KMP算法.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8007947d1bd11dd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "算法/模板/二分搜索.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2848e9b13d3a64b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring/定制Bean.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,7 +47,7 @@
             }
           },
           {
-            "id": "29c0c08d716c59a3",
+            "id": "75edde6b4df59447",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,9 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d3abd828128d613a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ArchLinux/遇到的问题.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -92,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/Java-Web.md",
+                "file": "ArchLinux/遇到的问题.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java/Java-Web.md",
+                "file": "ArchLinux/遇到的问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java/Java-Web.md"
+                "file": "ArchLinux/遇到的问题.md"
               }
             }
           }
@@ -155,32 +194,24 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "29c0c08d716c59a3",
+  "active": "9c8211eacd03431b",
   "lastOpenFiles": [
+    "ArchLinux/idea fcitx5 鼠标偏移.md",
     "ArchLinux/archlinux-wayland.md",
-    "ArchLinux/app.md",
-    "WSL2 & ArchLinux via lxrunoffline.md",
-    "Ubuntu&&wsl相关配置.md",
-    "scoop 相关.md",
-    "Spring/定制Bean.md",
-    "docker",
-    "代理相关.md",
-    "maven/自定义archetypoe.md",
-    "maven/maven 换源.md",
-    "README.md",
-    "git 相关设置.md",
-    "Config配置列表.md",
-    "算法/模板/KMP算法.md",
-    "ArchLinux/系统迁移.md",
     "ArchLinux/遇到的问题.md",
+    "ArchLinux/app.md",
+    "ArchLinux/pacman-hook 编写.md",
     "java/Java-Web.md",
-    "maven",
-    "java/未命名.md",
-    "java",
-    "Spring",
+    "maven/maven 换源.md",
+    "算法/模板/二分查找.md",
+    "ArchLinux/系统迁移.md",
     "未命名.canvas",
-    "算法/模板/二分搜索.md",
+    "算法/模板/KMP算法.md",
+    "linux命令",
     "算法/模板/二维数组的前缀和.md",
-    "2023-02-17.md"
+    "算法/模板/二分搜索.md",
+    "maven/自定义archetypoe.md",
+    "Spring/定制Bean.md",
+    "Config配置列表.md"
   ]
 }
