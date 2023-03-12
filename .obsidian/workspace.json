@@ -26,15 +26,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/Java-Web.md",
+                "file": "算法/模板/二维数组的前缀和.md",
                 "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dcc5f5255782801e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "算法/数学技巧.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -76,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "34c32c0e729a7c6e",
@@ -92,9 +106,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/Java-Web.md",
+                "file": "算法/数学技巧.md",
                 "collapseAll": true,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -120,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java/Java-Web.md",
+                "file": "算法/数学技巧.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java/Java-Web.md"
+                "file": "算法/数学技巧.md"
               }
             }
           }
@@ -141,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,12 +168,15 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "29c0c08d716c59a3",
+  "active": "dcc5f5255782801e",
   "lastOpenFiles": [
+    "WSL2 & ArchLinux via lxrunoffline.md",
+    "算法/模板/二维数组的前缀和.md",
+    "算法/数学技巧.md",
+    "java/Java-Web.md",
     "ArchLinux/pacman-hook 编写.md",
     "ArchLinux/archlinux-wayland.md",
     "ArchLinux/app.md",
-    "WSL2 & ArchLinux via lxrunoffline.md",
     "Ubuntu&&wsl相关配置.md",
     "scoop 相关.md",
     "Spring/定制Bean.md",
@@ -174,14 +190,12 @@
     "算法/模板/KMP算法.md",
     "ArchLinux/系统迁移.md",
     "ArchLinux/遇到的问题.md",
-    "java/Java-Web.md",
     "maven",
     "java/未命名.md",
     "java",
     "Spring",
     "未命名.canvas",
     "算法/模板/二分搜索.md",
-    "算法/模板/二维数组的前缀和.md",
     "2023-02-17.md"
   ]
 }
