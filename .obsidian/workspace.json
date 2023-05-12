@@ -71,9 +71,32 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "20ae94f653e7b3b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docker/idea 远程链接docker.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c142408605a9356",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -110,6 +133,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "f31944524321c0bf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -131,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法/模板/数位dp/题目一.md",
+                "file": "docker/idea 远程链接docker.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法/模板/数位dp/题目一.md",
+                "file": "docker/idea 远程链接docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "算法/模板/数位dp/题目一.md"
+                "file": "docker/idea 远程链接docker.md"
               }
             }
           }
@@ -193,10 +224,11 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "518951d93ec1b69b",
+  "active": "9c142408605a9356",
   "lastOpenFiles": [
-    "算法/数学技巧.md",
     "算法/模板/数位dp/题目一.md",
+    "docker/idea 远程链接docker.md",
+    "算法/数学技巧.md",
     "算法/模板/数位dp",
     "java/Nacos笔记.md",
     "java/Java-Web.md",
