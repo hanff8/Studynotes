@@ -89,9 +89,12 @@
             "id": "9c142408605a9356",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.2.8"
+                "file": "java/Java-正则表达式.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -162,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docker/idea 远程链接docker.md",
+                "file": "java/Java-正则表达式.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -190,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docker/idea 远程链接docker.md",
+                "file": "java/Java-正则表达式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docker/idea 远程链接docker.md"
+                "file": "java/Java-正则表达式.md"
               }
             }
           }
@@ -224,14 +227,16 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "9c142408605a9356",
+  "active": "9c8211eacd03431b",
   "lastOpenFiles": [
+    "未命名",
+    "java/Java-Web.md",
+    "java/Java-正则表达式.md",
+    "java/Nacos笔记.md",
     "算法/模板/数位dp/题目一.md",
     "docker/idea 远程链接docker.md",
     "算法/数学技巧.md",
     "算法/模板/数位dp",
-    "java/Nacos笔记.md",
-    "java/Java-Web.md",
     "算法/模板/二分搜索.md",
     "java/nacos",
     "算法/模板/二分查找.md",
@@ -256,7 +261,6 @@
     "maven",
     "java",
     "Spring",
-    "未命名.canvas",
-    "2023-02-17.md"
+    "未命名.canvas"
   ]
 }
