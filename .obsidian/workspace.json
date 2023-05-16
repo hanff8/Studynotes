@@ -78,19 +78,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/idea 远程链接docker.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c142408605a9356",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "java/Java-正则表达式.md",
                 "mode": "source",
                 "backlinks": true,
@@ -99,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -227,14 +214,19 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "9c8211eacd03431b",
+  "active": "20ae94f653e7b3b5",
   "lastOpenFiles": [
+    "golang/golang基础/defer关键字.md",
+    "未命名.md",
+    "golang/golang基础",
+    "docker/idea 远程链接docker.md",
+    "golang/Golang basic grammar.md",
     "未命名",
-    "java/Java-Web.md",
     "java/Java-正则表达式.md",
+    "golang",
+    "java/Java-Web.md",
     "java/Nacos笔记.md",
     "算法/模板/数位dp/题目一.md",
-    "docker/idea 远程链接docker.md",
     "算法/数学技巧.md",
     "算法/模板/数位dp",
     "算法/模板/二分搜索.md",
@@ -256,8 +248,6 @@
     "README.md",
     "git 相关设置.md",
     "算法/模板/KMP算法.md",
-    "ArchLinux/系统迁移.md",
-    "ArchLinux/遇到的问题.md",
     "maven",
     "java",
     "Spring",
