@@ -40,3 +40,22 @@ Host github.com
 # 检测链接
 ssh -T git@github.com
 ```
+
+	使用在httos端口使用ssh
+https://docs.github.com/zh/authentication/troubleshooting-ssh/using-ssh-over-the-https-port
+```shell
+$ ssh -T -p 443 git@ssh.github.com
+> Hi USERNAME! You've successfully authenticated, but GitHub does not
+> provide shell access.
+
+
+git clone ssh://git@ssh.github.com:443/YOUR-USERNAME/YOUR-REPOSITORY.git
+```
+
+	在~/.ssh/config文件下添加如下内容
+	Host github.com
+	Hostname ssh.github.com
+	Port 443
+	User git
+
+
