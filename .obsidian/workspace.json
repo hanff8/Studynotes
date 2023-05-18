@@ -78,8 +78,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git 相关设置.md",
-                "mode": "preview",
+                "file": "golang/golang环境搭建.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git 相关设置.md",
+                "file": "golang/golang环境搭建.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git 相关设置.md",
+                "file": "golang/golang环境搭建.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git 相关设置.md"
+                "file": "golang/golang环境搭建.md"
               }
             }
           }
@@ -216,9 +216,10 @@
   },
   "active": "20ae94f653e7b3b5",
   "lastOpenFiles": [
+    "git 相关设置.md",
+    "golang/golang环境搭建.md",
     "README.md",
     "scoop 相关.md",
-    "git 相关设置.md",
     "java/Java-Web.md",
     "git",
     "java/Java-正则表达式.md",
