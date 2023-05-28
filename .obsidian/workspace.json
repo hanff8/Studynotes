@@ -4,102 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "43e38d2b32645d6d",
+        "id": "f44d43e308b8c353",
         "type": "tabs",
         "children": [
           {
-            "id": "ee350eaf5c7d7208",
+            "id": "3a5bfb9165535ac1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wsl/WSL2 & ArchLinux via lxrunoffline.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29c0c08d716c59a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "算法/模板/二维数组的前缀和.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dcc5f5255782801e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "算法/模板/二分搜索.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c081c6e94bc6273",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "算法/数学技巧.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "518951d93ec1b69b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "算法/模板/数位dp/题目一.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20ae94f653e7b3b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "golang/golang环境搭建.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a68ec6f7949c71f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wsl/安装wsl2 ubuntu 并迁移到D盘.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wsl/安装wsl2 ubuntu 并迁移到D盘.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -193,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wsl/安装wsl2 ubuntu 并迁移到D盘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "wsl/安装wsl2 ubuntu 并迁移到D盘.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -227,20 +139,24 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "a68ec6f7949c71f0",
+  "active": "3a5bfb9165535ac1",
   "lastOpenFiles": [
-    "scoop 相关.md",
+    "wsl/WSL2 & ArchLinux via lxrunoffline.md",
+    "算法/模板/二维数组的前缀和.md",
+    "算法/模板/二分搜索.md",
+    "算法/数学技巧.md",
+    "算法/模板/数位dp/题目一.md",
+    "golang/golang环境搭建.md",
     "wsl/安装wsl2 ubuntu 并迁移到D盘.md",
+    "scoop 相关.md",
     "代理相关.md",
     "Config配置列表.md",
-    "wsl/WSL2 & ArchLinux via lxrunoffline.md",
     "git",
     "wsl",
     "wsl/Ubuntu&&wsl相关配置.md",
     "redis/redis基础.md",
     "redis",
     "git/git 相关设置.md",
-    "golang/golang环境搭建.md",
     "README.md",
     "java/Java-Web.md",
     "git",
@@ -252,13 +168,9 @@
     "golang/Golang basic grammar.md",
     "golang",
     "java/Nacos笔记.md",
-    "算法/模板/数位dp/题目一.md",
-    "算法/数学技巧.md",
     "算法/模板/数位dp",
-    "算法/模板/二分搜索.md",
     "java/nacos",
     "算法/模板/二分查找.md",
-    "算法/模板/二维数组的前缀和.md",
     "ArchLinux/pacman-hook 编写.md",
     "ArchLinux/archlinux-wayland.md",
     "ArchLinux/app.md",
