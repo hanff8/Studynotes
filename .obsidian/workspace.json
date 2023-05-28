@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WSL2 & ArchLinux via lxrunoffline.md",
+                "file": "wsl/WSL2 & ArchLinux via lxrunoffline.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,8 +91,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WSL2 & ArchLinux via lxrunoffline.md",
-                "mode": "preview",
+                "file": "wsl/安装wsl2 ubuntu 并迁移到D盘.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WSL2 & ArchLinux via lxrunoffline.md",
+                "file": "wsl/安装wsl2 ubuntu 并迁移到D盘.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WSL2 & ArchLinux via lxrunoffline.md",
+                "file": "wsl/安装wsl2 ubuntu 并迁移到D盘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WSL2 & ArchLinux via lxrunoffline.md"
+                "file": "wsl/安装wsl2 ubuntu 并迁移到D盘.md"
               }
             }
           }
@@ -229,12 +229,17 @@
   },
   "active": "a68ec6f7949c71f0",
   "lastOpenFiles": [
-    "Ubuntu&&wsl相关配置.md",
     "scoop 相关.md",
-    "WSL2 & ArchLinux via lxrunoffline.md",
+    "wsl/安装wsl2 ubuntu 并迁移到D盘.md",
+    "代理相关.md",
+    "Config配置列表.md",
+    "wsl/WSL2 & ArchLinux via lxrunoffline.md",
+    "git",
+    "wsl",
+    "wsl/Ubuntu&&wsl相关配置.md",
     "redis/redis基础.md",
     "redis",
-    "git 相关设置.md",
+    "git/git 相关设置.md",
     "golang/golang环境搭建.md",
     "README.md",
     "java/Java-Web.md",
@@ -253,18 +258,13 @@
     "算法/模板/二分搜索.md",
     "java/nacos",
     "算法/模板/二分查找.md",
-    "Config配置列表.md",
     "算法/模板/二维数组的前缀和.md",
     "ArchLinux/pacman-hook 编写.md",
     "ArchLinux/archlinux-wayland.md",
     "ArchLinux/app.md",
     "Spring/定制Bean.md",
     "docker",
-    "代理相关.md",
-    "maven/自定义archetypoe.md",
     "maven",
-    "java",
-    "Spring",
     "未命名.canvas"
   ]
 }

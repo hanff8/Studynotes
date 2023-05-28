@@ -12,7 +12,7 @@
   "updateSubmodules": false,
   "gitPath": "D:\\Applications\\Scoop\\apps\\git\\current\\bin\\git.exe",
   "customMessageOnAutoBackup": true,
-  "autoBackupAfterFileChange": false,
+  "autoBackupAfterFileChange": true,
   "mergeOnPull": true,
   "treeStructure": false
 }
