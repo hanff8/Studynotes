@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "redis/redis基础.md",
+                "file": "WSL2 & ArchLinux via lxrunoffline.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "redis/redis基础.md",
+                "file": "WSL2 & ArchLinux via lxrunoffline.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "redis/redis基础.md",
+                "file": "WSL2 & ArchLinux via lxrunoffline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "redis/redis基础.md"
+                "file": "WSL2 & ArchLinux via lxrunoffline.md"
               }
             }
           }
@@ -229,6 +229,8 @@
   },
   "active": "a68ec6f7949c71f0",
   "lastOpenFiles": [
+    "Ubuntu&&wsl相关配置.md",
+    "WSL2 & ArchLinux via lxrunoffline.md",
     "redis/redis基础.md",
     "redis",
     "git 相关设置.md",
@@ -251,9 +253,7 @@
     "算法/模板/二分搜索.md",
     "java/nacos",
     "算法/模板/二分查找.md",
-    "WSL2 & ArchLinux via lxrunoffline.md",
     "Config配置列表.md",
-    "Ubuntu&&wsl相关配置.md",
     "算法/模板/二维数组的前缀和.md",
     "ArchLinux/pacman-hook 编写.md",
     "ArchLinux/archlinux-wayland.md",
