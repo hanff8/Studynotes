@@ -11,8 +11,13 @@
             "id": "3a5bfb9165535ac1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "redis/redis基础.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "redis/redis基础.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -108,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "redis/redis基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "redis/redis基础.md"
+              }
             }
           }
         ],
@@ -141,6 +150,7 @@
   },
   "active": "3a5bfb9165535ac1",
   "lastOpenFiles": [
+    "wsl/Ubuntu&&wsl相关配置.md",
     "wsl/WSL2 & ArchLinux via lxrunoffline.md",
     "算法/模板/二维数组的前缀和.md",
     "算法/模板/二分搜索.md",
@@ -153,7 +163,6 @@
     "Config配置列表.md",
     "git",
     "wsl",
-    "wsl/Ubuntu&&wsl相关配置.md",
     "redis/redis基础.md",
     "redis",
     "git/git 相关设置.md",
