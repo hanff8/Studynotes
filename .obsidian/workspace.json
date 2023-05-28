@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法/模板/二分查找.md",
+                "file": "算法/模板/回溯.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法/模板/二分查找.md",
+                "file": "算法/模板/回溯.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法/模板/二分查找.md",
+                "file": "算法/模板/回溯.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "算法/模板/二分查找.md"
+                "file": "算法/模板/回溯.md"
               }
             }
           }
@@ -150,9 +150,10 @@
   },
   "active": "3a5bfb9165535ac1",
   "lastOpenFiles": [
+    "算法/模板/二分查找.md",
+    "算法/模板/回溯.md",
     "算法/模板/二分搜索.md",
     "算法/模板/二维数组的前缀和.md",
-    "算法/模板/二分查找.md",
     "redis/redis基础.md",
     "wsl/Ubuntu&&wsl相关配置.md",
     "wsl/WSL2 & ArchLinux via lxrunoffline.md",
@@ -183,7 +184,6 @@
     "ArchLinux/pacman-hook 编写.md",
     "ArchLinux/archlinux-wayland.md",
     "ArchLinux/app.md",
-    "Spring/定制Bean.md",
     "docker",
     "maven",
     "未命名.canvas"
