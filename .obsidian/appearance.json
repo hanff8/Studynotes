@@ -1,8 +1,9 @@
 {
   "baseFontSize": 16,
   "translucency": true,
-  "cssTheme": "Obsidian Nord",
+  "cssTheme": "Blue Topaz",
   "accentColor": "",
   "theme": "system",
-  "nativeMenus": true
+  "nativeMenus": true,
+  "monospaceFontFamily": "Maple Mono"
 }

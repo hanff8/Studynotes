@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f44d43e308b8c353",
+        "id": "8b795d85b8e6a55b",
         "type": "tabs",
         "children": [
           {
-            "id": "3a5bfb9165535ac1",
+            "id": "0ab987770214e18f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法/模板/回溯.md",
+                "file": "redis/redis基础.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Json序列化器",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法/模板/回溯.md",
+                "file": "redis/redis基础.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法/模板/回溯.md",
+                "file": "redis/redis基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,12 +126,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "算法/模板/回溯.md"
+                "file": "redis/redis基础.md"
               }
+            }
+          },
+          {
+            "id": "747b5a878da6858d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -145,16 +153,28 @@
       "daily-notes:打开/创建今天的日记": false,
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
-      "workspaces:管理工作区布局": false
+      "workspaces:管理工作区布局": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3a5bfb9165535ac1",
+  "active": "9c8211eacd03431b",
   "lastOpenFiles": [
+    "img/Pasted image 20230602234020.png",
+    "img/Pasted image 20230602233501.png",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "redis/redis基础.md",
+    "img",
     "算法/模板/二分查找.md",
+    "java/java泛型通配符.md",
+    "java/steamAPI/mapToInt与map的区别.md",
+    "java/Java-Web.md",
+    "java/Nacos笔记.md",
+    "java/Java-正则表达式.md",
+    "java/steamAPI",
     "算法/模板/回溯.md",
     "算法/模板/二分搜索.md",
     "算法/模板/二维数组的前缀和.md",
-    "redis/redis基础.md",
     "wsl/Ubuntu&&wsl相关配置.md",
     "wsl/WSL2 & ArchLinux via lxrunoffline.md",
     "算法/数学技巧.md",
@@ -169,23 +189,14 @@
     "redis",
     "git/git 相关设置.md",
     "README.md",
-    "java/Java-Web.md",
     "git",
-    "java/Java-正则表达式.md",
     "golang/golang基础/defer关键字.md",
     "未命名.md",
     "golang/golang基础",
     "docker/idea 远程链接docker.md",
     "golang/Golang basic grammar.md",
     "golang",
-    "java/Nacos笔记.md",
     "算法/模板/数位dp",
-    "java/nacos",
-    "ArchLinux/pacman-hook 编写.md",
-    "ArchLinux/archlinux-wayland.md",
-    "ArchLinux/app.md",
-    "docker",
-    "maven",
-    "未命名.canvas"
+    "java/nacos"
   ]
 }
