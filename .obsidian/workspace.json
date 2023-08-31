@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/docs/advanced/architecture.md",
+                "file": "quartz/content/notes/index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "quartz/docs/advanced/architecture.md",
+                "file": "quartz/content/notes/index.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "quartz/docs/advanced/architecture.md",
+                "file": "quartz/content/notes/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "quartz/docs/advanced/architecture.md"
+                "file": "quartz/content/notes/index.md"
               }
             }
           },
@@ -176,7 +176,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c2f5d41c68d875bf",
+  "active": "a67aa8ec2bd2296e",
   "lastOpenFiles": [
     "quartz/public/static/og-image.png",
     "quartz/public/static/icon.png",
@@ -186,41 +186,41 @@
     "quartz/public/sitemap.xml",
     "quartz/public/tags/index.html",
     "quartz/public/tags",
-    "quartz/public/notes/index.html",
-    "quartz/public/notes/scoop-相关.html",
-    "quartz/public/notes/WSL2-&-ArchLinux-via-lxrunoffline.html",
+    "quartz/public/scoop-相关.html",
+    "quartz/public/index.html",
+    "quartz/public/WSL2-&-ArchLinux-via-lxrunoffline.html",
+    "quartz/public/prescript.js",
+    "quartz/content/notes/scoop 相关.md",
+    "quartz/content/notes/WSL2 & ArchLinux via lxrunoffline.md",
+    "quartz/content/notes/index.md",
+    "wsl/WSL2 & ArchLinux via lxrunoffline.md",
+    "scoop 相关.md",
+    "WindowsPowerShell常用命令.md",
+    "quartz/content/notes/Ubuntu&&wsl相关配置.md",
+    "quartz/content/notes/redis基础.md",
+    "quartz/content/notes/安装wsl2 ubuntu 并迁移到D盘.md",
+    "redis/redis基础.md",
+    "template/export_hugo.md",
+    "wsl/安装wsl2 ubuntu 并迁移到D盘.md",
+    "wsl/Ubuntu&&wsl相关配置.md",
+    "redis基础.md",
+    "Config配置列表.md",
+    "quartz/docs/layout.md",
+    "quartz/docs/hosting.md",
+    "quartz/docs/index.md",
+    "quartz/docs/advanced/architecture.md",
     "quartz/CODE_OF_CONDUCT.md",
     "quartz/README.md",
-    "template/export_hugo.md",
     "Spring/定制Bean.md",
-    "quartz/content/index.md",
-    "quartz/content/notes/WSL2 & ArchLinux via lxrunoffline.md",
-    "quartz/content/notes/scoop 相关.md",
     "设计模式/碎碎念.md",
-    "设计模式",
     "网络/上网的过程.md",
     "算法/图/1761.一个图中连通三元组的最小度数.md",
-    "算法/后缀和数组.md",
-    "redis/redisson/未命名.md",
-    "redis/redisson/redisson源码阅读.md",
-    "java/steamAPI/一些StreamApi的小技巧.md",
-    "WindowsPowerShell常用命令.md",
     "Pasted image 20230614165628.png",
     "Pasted image 20230608203921.png",
     "Pasted image 20230606211050.png",
     "Pasted image 20230606210808.png",
     "未命名.canvas",
     "未命名 1.canvas",
-    "wsl/WSL2 & ArchLinux via lxrunoffline.md",
-    "wsl/Ubuntu&&wsl相关配置.md",
-    "wsl/安装wsl2 ubuntu 并迁移到D盘.md",
-    "scoop 相关.md",
-    "代理相关.md",
-    "Config配置列表.md",
-    "quartz/node_modules/speech-rule-engine/bin/README.md",
-    "quartz/node_modules/mdast-util-math/readme.md",
-    "quartz/node_modules/mdast-util-gfm-footnote/readme.md",
-    "quartz/node_modules/mdast-util-gfm/readme.md",
     "quartz/node_modules/cli-spinner/img/spinner.gif",
     "quartz/node_modules/psl/browserstack-logo.svg",
     "quartz/quartz/static/og-image.png",
