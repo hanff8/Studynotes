@@ -1,9 +1,11 @@
 {
-  "baseFontSize": 16,
+  "baseFontSize": 17,
   "translucency": true,
-  "cssTheme": "Blue Topaz",
+  "cssTheme": "Things",
   "accentColor": "",
-  "theme": "system",
+  "theme": "obsidian",
   "nativeMenus": true,
-  "monospaceFontFamily": "Maple Mono"
+  "monospaceFontFamily": "Maple Mono,Maple Mono SC NF",
+  "textFontFamily": "",
+  "interfaceFontFamily": ""
 }

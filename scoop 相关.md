@@ -1,6 +1,6 @@
 # Scoop windows 安装与配置
 
-## 1、Scoop安装
+## 1. Scoop安装
 ```shell
 Invoke-Expression (New-Object System.Net.WebClient).DownloadString('https://get.scoop.sh')
 

@@ -1,13 +1,18 @@
 [
-  "ProxyGithub",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-dictionary-plugin",
   "obsidian-icons-plugin",
   "obsidian-git",
   "obsidian-version-history-diff",
   "obsidian-outliner",
-  "obsidian-pandoc",
   "number-headings-obsidian",
   "quick-latex",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-icon-folder",
+  "mysnippets-plugin",
+  "obsidian42-brat",
+  "obsidian-style-settings",
+  "obsidian-plantuml",
+  "drawio-obsidian",
+  "templater-obsidian"
 ]

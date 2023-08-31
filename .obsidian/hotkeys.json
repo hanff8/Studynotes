@@ -1,11 +1,3 @@
 {
-  "app:show-debug-info": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "I"
-    }
-  ]
+  "obsidian-icons-plugin:open-icons-plugin-modal": []
 }

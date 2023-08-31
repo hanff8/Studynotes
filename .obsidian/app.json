@@ -2,9 +2,19 @@
   "legacyEditor": false,
   "livePreview": true,
   "alwaysUpdateLinks": true,
-  "showFrontmatter": true,
+  "showFrontmatter": false,
   "showLineNumber": true,
   "showUnsupportedFiles": true,
   "promptDelete": false,
+<<<<<<< Updated upstream
   "spellcheckLanguages": null
+=======
+  "spellcheckLanguages": null,
+  "spellcheck": false,
+  "useTab": false,
+  "showInlineTitle": false,
+  "userIgnoreFilters": [
+    "quartz/"
+  ]
+>>>>>>> Stashed changes
 }

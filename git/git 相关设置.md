@@ -1,7 +1,7 @@
 # git 相关设置
 
-## 1、 问题合集
-### 1.1 gitee push 文件时需要输入用户名与密码
+## 1. 1、 问题合集
+### 1.1. gitee push 文件时需要输入用户名与密码
 
 问题与使用的是http方式来推送，关于推送方式可以使用以下命令查看
 ```shell
@@ -53,9 +53,12 @@ git clone ssh://git@ssh.github.com:443/YOUR-USERNAME/YOUR-REPOSITORY.git
 ```
 
 	在~/.ssh/config文件下添加如下内容
-	Host github.com
-	Hostname ssh.github.com
-	Port 443
-	User git
+```conf
+Host github.com
+Hostname ssh.github.com
+Port 443
+User git
+```
+
 
 

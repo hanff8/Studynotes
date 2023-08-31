@@ -1,0 +1,8 @@
+{
+  "server_url": "",
+  "header": "",
+  "debounce": 3,
+  "localJar": "D:\\Applications\\plantuml.jar",
+  "javaPath": "D:\\MyDevEnv\\jdk-11.0.18\\bin\\java.exe",
+  "defaultProcessor": "svg"
+}

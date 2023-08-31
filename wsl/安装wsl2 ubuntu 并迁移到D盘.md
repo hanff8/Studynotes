@@ -16,7 +16,7 @@ wsl --export Ubuntu d:\Ubuntu.tar
 ```
 注销当前分发版
 ```powershell
-wsl -unregister Ubuntu
+wsl --unregister Ubuntu
 ```
 重新导入并安装在D盘
 ```powershell
@@ -24,7 +24,7 @@ wsl --import Ubuntu d:\MyWSL\ubuntu d:\Ubuntu.tar --version 2
 ```
 设置默认登陆用户
 ```powershell
-ubuntu config  --default-user han
+ubuntu config  --default-user hanfx
 ```
 删除Ubuntu.tar
 ```powershell

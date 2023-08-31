@@ -1,4 +1,4 @@
-## Ubuntu 换源
+## 1. Ubuntu 换源
 
 -   备份源文件
 
@@ -36,7 +36,7 @@ sudo sed -i 's@//.*archive.ubuntu.com@//mirrors.ustc.edu.cn@g' /etc/apt/sources.
 sudo apt update
 ```
 
-## 安装 zsh 与 oh-my-zsh
+## 2. 安装 zsh 与 oh-my-zsh
 ```shell
 ## 安装zsh
 sudo apt install zsh

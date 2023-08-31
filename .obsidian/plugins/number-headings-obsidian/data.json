@@ -1,11 +1,11 @@
 {
   "skipTopLevel": true,
   "firstLevel": 1,
-  "maxLevel": 1,
+  "maxLevel": 6,
   "styleLevel1": "1",
   "styleLevelOther": "1",
-  "auto": false,
-  "separator": "",
-  "contents": "",
+  "auto": true,
+  "separator": ".",
+  "contents": "^toc",
   "startAt": "1"
 }
