@@ -11,8 +11,13 @@
             "id": "c2f5d41c68d875bf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "template/export_hugo.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "template/export_hugo.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -117,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "template/export_hugo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "template/export_hugo.md"
+              }
             }
           },
           {
@@ -169,6 +178,9 @@
   },
   "active": "c2f5d41c68d875bf",
   "lastOpenFiles": [
+    "quartz/content/index.md",
+    "quartz/content/notes/WSL2 & ArchLinux via lxrunoffline.md",
+    "quartz/content/notes/scoop 相关.md",
     "设计模式/碎碎念.md",
     "设计模式",
     "网络/上网的过程.md",
@@ -190,14 +202,12 @@
     "quartz/package.json",
     "未命名.canvas",
     "未命名 1.canvas",
-    "quartz/content/notes/WSL2 & ArchLinux via lxrunoffline.md",
     "wsl/WSL2 & ArchLinux via lxrunoffline.md",
     "wsl/Ubuntu&&wsl相关配置.md",
     "wsl/安装wsl2 ubuntu 并迁移到D盘.md",
     "scoop 相关.md",
     "代理相关.md",
     "Config配置列表.md",
-    "quartz/content/notes/scoop 相关.md",
     "quartz/node_modules/speech-rule-engine/node_modules/commander/typings/index.d.ts",
     "quartz/node_modules/speech-rule-engine/node_modules/commander/typings",
     "quartz/node_modules/gray-matter/node_modules/js-yaml/bin/js-yaml.js",
@@ -205,7 +215,6 @@
     "quartz/node_modules/speech-rule-engine/bin/README.md",
     "quartz/public/static/og-image.png",
     "quartz/public/static/icon.png",
-    "quartz/content/index.md",
     "quartz/node_modules/mdast-util-math/readme.md",
     "quartz/node_modules/mdast-util-gfm-footnote/readme.md",
     "quartz/node_modules/mdast-util-gfm/readme.md",
