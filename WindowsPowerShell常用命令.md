@@ -13,3 +13,6 @@ taskkill /f /t /pid $pid
 - `/T` 终止指定的进程和由它启用的子进程。
 - `/IM imagename` 指定要终止的进程的映像名称。通配符 '*'可用来指定所有任务或映像名称。
 - `/PID processid` 指定要终止的进程的 PID。使用 TaskList 取得 PID。
+
+
+#powershell

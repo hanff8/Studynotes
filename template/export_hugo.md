@@ -23,7 +23,6 @@ const FRONTMATTER = `---
 title: "${tp.file.title}"
 date: "${tp.file.creation_date("YYYY-MM-DD")}"
 description: ""
-tags: [ ${tp.file.tags.join(", ").replaceAll("#", "")} ]
 ---
 `;
 const CONTENT = tp.file.content.replace(/---\n[\s\S]*?---\n/gm, "");
