@@ -6,8 +6,5 @@
   "showLineNumber": true,
   "showUnsupportedFiles": true,
   "promptDelete": false,
-  "spellcheckLanguages": [
-    "zh-CN",
-    "en-US"
-  ]
+  "spellcheckLanguages": null
 }

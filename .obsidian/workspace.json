@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8b795d85b8e6a55b",
+        "id": "fc8e2112489dc63d",
         "type": "tabs",
         "children": [
           {
-            "id": "0ab987770214e18f",
+            "id": "c2f5d41c68d875bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "redis/redis基础.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -34,22 +29,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9c8211eacd03431b",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "8e8fc1081e10ab4b",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Json序列化器",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +50,27 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "f426b3374f65465c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a67aa8ec2bd2296e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -86,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "redis/redis基础.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +107,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
@@ -114,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "redis/redis基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +127,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "redis/redis基础.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "8c5930460c237f0c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           },
           {
@@ -143,7 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 382.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,49 +162,66 @@
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "workspaces:管理工作区布局": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian42-brat:BRAT": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "9c8211eacd03431b",
+  "active": "c2f5d41c68d875bf",
   "lastOpenFiles": [
-    "img/Pasted image 20230602234020.png",
-    "img/Pasted image 20230602233501.png",
-    "未命名 1.canvas",
+    "quartz/package.json",
+    "算法/图/1761.一个图中连通三元组的最小度数.md",
     "未命名.canvas",
-    "redis/redis基础.md",
-    "img",
-    "算法/模板/二分查找.md",
-    "java/java泛型通配符.md",
-    "java/steamAPI/mapToInt与map的区别.md",
-    "java/Java-Web.md",
-    "java/Nacos笔记.md",
-    "java/Java-正则表达式.md",
-    "java/steamAPI",
-    "算法/模板/回溯.md",
-    "算法/模板/二分搜索.md",
-    "算法/模板/二维数组的前缀和.md",
-    "wsl/Ubuntu&&wsl相关配置.md",
+    "未命名 1.canvas",
+    "quartz/content/notes/WSL2 & ArchLinux via lxrunoffline.md",
     "wsl/WSL2 & ArchLinux via lxrunoffline.md",
-    "算法/数学技巧.md",
-    "算法/模板/数位dp/题目一.md",
-    "golang/golang环境搭建.md",
+    "wsl/Ubuntu&&wsl相关配置.md",
     "wsl/安装wsl2 ubuntu 并迁移到D盘.md",
+    "设计模式/碎碎念.md",
+    "WindowsPowerShell常用命令.md",
     "scoop 相关.md",
+    "Pasted image 20230614165628.png",
     "代理相关.md",
     "Config配置列表.md",
-    "git",
-    "wsl",
-    "redis",
-    "git/git 相关设置.md",
-    "README.md",
-    "git",
-    "golang/golang基础/defer关键字.md",
-    "未命名.md",
-    "golang/golang基础",
-    "docker/idea 远程链接docker.md",
-    "golang/Golang basic grammar.md",
-    "golang",
-    "算法/模板/数位dp",
-    "java/nacos"
+    "quartz/content/notes/scoop 相关.md",
+    "quartz/node_modules/speech-rule-engine/node_modules/commander/typings/index.d.ts",
+    "quartz/node_modules/speech-rule-engine/node_modules/commander/typings",
+    "quartz/node_modules/gray-matter/node_modules/js-yaml/bin/js-yaml.js",
+    "quartz/node_modules/gray-matter/node_modules/js-yaml/bin",
+    "quartz/node_modules/typescript/lib/pl/diagnosticMessages.generated.json",
+    "quartz/node_modules/typescript/lib/pl",
+    "quartz/node_modules/typescript/lib/ko/diagnosticMessages.generated.json",
+    "quartz/node_modules/typescript/lib/ko",
+    "quartz/node_modules/typescript/lib/it/diagnosticMessages.generated.json",
+    "quartz/node_modules/typescript/lib/it",
+    "quartz/node_modules/speech-rule-engine/bin/README.md",
+    "quartz/public/static/og-image.png",
+    "quartz/public/static/icon.png",
+    "quartz/content/index.md",
+    "quartz/node_modules/mdast-util-math/readme.md",
+    "quartz/node_modules/mdast-util-gfm-footnote/readme.md",
+    "quartz/node_modules/mdast-util-gfm/readme.md",
+    "quartz/node_modules/longest-streak/readme.md",
+    "quartz/node_modules/delayed-stream/Readme.md",
+    "quartz/node_modules/delaunator/README.md",
+    "quartz/node_modules/decode-named-character-reference/readme.md",
+    "quartz/node_modules/d3-timer/README.md",
+    "quartz/node_modules/@napi-rs/simple-git-win32-x64-msvc/README.md",
+    "quartz/node_modules/speech-rule-engine/README.md",
+    "quartz/node_modules/@clack/core/README.md",
+    "quartz/node_modules/gray-matter/node_modules/js-yaml/CHANGELOG.md",
+    "quartz/node_modules/cli-spinner/img/spinner.gif",
+    "quartz/node_modules/psl/browserstack-logo.svg",
+    "quartz/quartz/static/og-image.png",
+    "quartz/quartz/static/icon.png",
+    "quartz/docs/images/quartz transform pipeline.png",
+    "quartz/docs/images/quartz layout.png",
+    "quartz/docs/images/dns records.png",
+    "未命名 3.canvas",
+    "未命名 2.canvas",
+    "未命名 4.canvas",
+    "未命名 6.canvas",
+    "未命名 5.canvas",
+    "redis/redisson/未命名.canvas"
   ]
 }
