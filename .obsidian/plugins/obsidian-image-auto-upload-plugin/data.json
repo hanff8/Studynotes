@@ -1,0 +1,36 @@
+{
+  "uploadByClipSwitch": true,
+  "uploader": "PicGo",
+  "uploadServer": "http://127.0.0.1:36677/upload",
+  "deleteServer": "http://127.0.0.1:36677/delete",
+  "imageSizeSuffix": "|500",
+  "picgoCorePath": "",
+  "workOnNetWork": false,
+  "fixPath": false,
+  "applyImage": true,
+  "newWorkBlackDomains": "",
+  "deleteSource": false,
+  "imageDesc": "origin",
+  "uploadedImages": [
+    {
+      "fileName": "Pasted image 20230608203921.png",
+      "width": 996,
+      "height": 522,
+      "extname": ".png",
+      "imgUrl": "https://s2.loli.net/2023/09/01/6g3OVSwXAoG1BpZ.png",
+      "hash": "5V4rpfCAeQNsaWB7vzqkmOhIlj",
+      "type": "smms",
+      "config": {
+        "token": "j7T7YZwrfLiq3CFoPYE5kgLii0FrBJp6",
+        "_configName": "Default",
+        "_id": "d00006c0-e236-462c-b135-8cf70cd01b1f",
+        "_createdAt": 1693500556657,
+        "_updatedAt": 1693500579195,
+        "backupDomain": "smms.app"
+      },
+      "id": "7151acd5-1580-4f2d-be4a-3dd4c5b11ad0",
+      "createdAt": 1693500747303,
+      "updatedAt": 1693500747303
+    }
+  ]
+}

@@ -99,7 +99,10 @@ SortedSet具有以下特性
 
 ## 5. 序列化
 #Json序列化器 #GenericJackson2JsonRedisSerializer
-![[Pasted image 20230602233501.png]]
+
+![Pasted image 20230608203921.png|300](https://s2.loli.net/2023/09/01/6g3OVSwXAoG1BpZ.png)
+
+
 
 	缺点：存入redis的时候会将类的class类型写入json字符串，存入redis中，会带来额外的内存开销
 
@@ -107,7 +110,7 @@ SortedSet具有以下特性
 
 	为了节省内存开销，我们不会使用json序列化器来处理value，而是统一使用String序列化器，要求只能存储String类型的Key和Value，当要存储Java对象的时候，手动进行序列化与反序列化
 
-![[Pasted image 20230602234020.png]]
+![Pasted image 20230602234020|500](https://s2.loli.net/2023/09/01/ad7YfcBZiA6bWjT.png)
 
 ## 6. Redis实现共享Session登陆
 
@@ -156,8 +159,8 @@ SortedSet具有以下特性
 
 
 ### 6.2. 缓存穿透
-![[Pasted image 20230606211050.png]]
 
+![Pasted image 20230606211050|500](https://s2.loli.net/2023/09/01/bY1Mivnfhy5C3DO.png)
 #### 6.2.1. 解决方案：
 ##### 6.2.1.1. 缓存null值
 思路：
@@ -198,7 +201,7 @@ SortedSet具有以下特性
     - 对请求的key添加互斥锁，可以借助redis的setnx(key不存在的时候才执行语句)实现 
 - 逻辑过期
     - 存储数据到redis的时候添加一个过期时间
-    - ![[Pasted image 20230608203921.png]]
+    - ![Pasted image 20230608203921|500](https://s2.loli.net/2023/09/01/6g3OVSwXAoG1BpZ.png)
 ## 7. 订单
 ### 7.1. 全局ID生成
 全局ID生成器，是一种在分布式系统下用来生成全局唯一ID的工具，一般要满足下列特性

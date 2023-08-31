@@ -14,5 +14,8 @@
   "obsidian-style-settings",
   "obsidian-plantuml",
   "drawio-obsidian",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-custom-attachment-location",
+  "obsidian-local-images",
+  "obsidian-image-auto-upload-plugin"
 ]
