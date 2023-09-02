@@ -24,9 +24,12 @@
             "id": "d9547393227b624e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.5"
+                "file": "quartz/content/notes/安装wsl2 ubuntu 并迁移到D盘.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -106,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "redis/redis基础.md",
+                "file": "quartz/content/notes/安装wsl2 ubuntu 并迁移到D盘.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -134,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "redis/redis基础.md",
+                "file": "quartz/content/notes/安装wsl2 ubuntu 并迁移到D盘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "redis/redis基础.md"
+                "file": "quartz/content/notes/安装wsl2 ubuntu 并迁移到D盘.md"
               }
             }
           },
@@ -189,6 +192,12 @@
   },
   "active": "d9547393227b624e",
   "lastOpenFiles": [
+    "wsl/安装wsl2 ubuntu 并迁移到D盘.md",
+    "quartz/content/notes/安装wsl2 ubuntu 并迁移到D盘.md",
+    "redis/redis基础.md",
+    "算法/图/1761.一个图中连通三元组的最小度数.md",
+    "redis/redisson/未命名.md",
+    "算法/后缀和数组.md",
     "quartz/content/notes/WSL2 & ArchLinux via lxrunoffline.md",
     "quartz/content/notes/WindowsPowerShell常用命令.md",
     "quartz/content/notes/scoop 相关.md",
@@ -207,7 +216,6 @@
     "quartz/public/tags/wsl2.html",
     "quartz/public/tags/string序列化器.html",
     "quartz/public/tags/scoop.html",
-    "redis/redis基础.md",
     "Pasted image 20230606211050.png",
     "Pasted image 20230608203921.png",
     "Pasted image 20230614165628.png",
@@ -217,18 +225,13 @@
     "redis/redisson/redisson源码阅读.md",
     "Config配置列表.md",
     "wsl/Ubuntu&&wsl相关配置.md",
-    "wsl/安装wsl2 ubuntu 并迁移到D盘.md",
     "代理相关.md",
     "README.md",
     "scoop 相关.md",
     "WindowsPowerShell常用命令.md",
-    "算法/图/1761.一个图中连通三元组的最小度数.md",
     "template/export_hugo.md",
     "算法/数学技巧.md",
-    "算法/后缀和数组.md",
-    "redis/redisson/未命名.md",
     "quartz/content/notes/Ubuntu&&wsl相关配置.md",
-    "quartz/content/notes/安装wsl2 ubuntu 并迁移到D盘.md",
     "redis基础.md",
     "quartz/docs/layout.md",
     "未命名.canvas",

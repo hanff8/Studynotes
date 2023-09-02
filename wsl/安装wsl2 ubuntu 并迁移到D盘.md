@@ -31,3 +31,4 @@ ubuntu config  --default-user hanfx
 del d:\Ubuntu.tar
 ```
 
+#wsl2 #wsl迁移 #ubuntu
