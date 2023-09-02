@@ -7,5 +7,5 @@
 
 ## [[WSL2 & ArchLinux via lxrunoffline]]
 
-## [[git 相关设置]]
+## [[git 配置问题]]
 

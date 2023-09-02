@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/notes/安装wsl2 ubuntu 并迁移到D盘.md",
+                "file": "java/steamAPI/StreamAPI的对比.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "quartz/content/notes/安装wsl2 ubuntu 并迁移到D盘.md",
+                "file": "java/steamAPI/StreamAPI的对比.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "quartz/content/notes/安装wsl2 ubuntu 并迁移到D盘.md",
+                "file": "java/steamAPI/StreamAPI的对比.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "quartz/content/notes/安装wsl2 ubuntu 并迁移到D盘.md"
+                "file": "java/steamAPI/StreamAPI的对比.md"
               }
             }
           },
@@ -192,8 +192,16 @@
   },
   "active": "d9547393227b624e",
   "lastOpenFiles": [
-    "wsl/安装wsl2 ubuntu 并迁移到D盘.md",
+    "java/steamAPI/一些StreamApi的小技巧.md",
+    "java/steamAPI/StreamAPI的对比.md",
+    "java/Java-Web.md",
+    "java/Java-正则表达式.md",
+    "quartz/content/notes/git 配置问题.md",
+    "git/git 配置问题.md",
+    "maven/maven 换源.md",
+    "maven/自定义archetypoe.md",
     "quartz/content/notes/安装wsl2 ubuntu 并迁移到D盘.md",
+    "wsl/安装wsl2 ubuntu 并迁移到D盘.md",
     "redis/redis基础.md",
     "算法/图/1761.一个图中连通三元组的最小度数.md",
     "redis/redisson/未命名.md",
@@ -227,13 +235,6 @@
     "wsl/Ubuntu&&wsl相关配置.md",
     "代理相关.md",
     "README.md",
-    "scoop 相关.md",
-    "WindowsPowerShell常用命令.md",
-    "template/export_hugo.md",
-    "算法/数学技巧.md",
-    "quartz/content/notes/Ubuntu&&wsl相关配置.md",
-    "redis基础.md",
-    "quartz/docs/layout.md",
     "未命名.canvas",
     "未命名 1.canvas",
     "quartz/node_modules/cli-spinner/img/spinner.gif",
