@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/steamAPI/StreamAPI的对比.md",
+                "file": "java/Spring/Spring-Framework-Study.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "34c32c0e729a7c6e",
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/steamAPI/StreamAPI的对比.md",
+                "file": "java/Spring/Spring-Framework-Study.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java/steamAPI/StreamAPI的对比.md",
+                "file": "java/Spring/Spring-Framework-Study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java/steamAPI/StreamAPI的对比.md"
+                "file": "java/Spring/Spring-Framework-Study.md"
               }
             }
           },
@@ -174,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,8 +193,12 @@
   },
   "active": "d9547393227b624e",
   "lastOpenFiles": [
-    "java/steamAPI/一些StreamApi的小技巧.md",
+    "redis/redis基础.md",
+    "java/Spring/Spring-Framework-Study.md",
+    "java/Java基础问题合集.md",
     "java/steamAPI/StreamAPI的对比.md",
+    "java/Spring",
+    "java/steamAPI/一些StreamApi的小技巧.md",
     "java/Java-Web.md",
     "java/Java-正则表达式.md",
     "quartz/content/notes/git 配置问题.md",
@@ -202,7 +207,6 @@
     "maven/自定义archetypoe.md",
     "quartz/content/notes/安装wsl2 ubuntu 并迁移到D盘.md",
     "wsl/安装wsl2 ubuntu 并迁移到D盘.md",
-    "redis/redis基础.md",
     "算法/图/1761.一个图中连通三元组的最小度数.md",
     "redis/redisson/未命名.md",
     "算法/后缀和数组.md",
@@ -223,7 +227,6 @@
     "quartz/public/tags/图.html",
     "quartz/public/tags/wsl2.html",
     "quartz/public/tags/string序列化器.html",
-    "quartz/public/tags/scoop.html",
     "Pasted image 20230606211050.png",
     "Pasted image 20230608203921.png",
     "Pasted image 20230614165628.png",
@@ -233,8 +236,6 @@
     "redis/redisson/redisson源码阅读.md",
     "Config配置列表.md",
     "wsl/Ubuntu&&wsl相关配置.md",
-    "代理相关.md",
-    "README.md",
     "未命名.canvas",
     "未命名 1.canvas",
     "quartz/node_modules/cli-spinner/img/spinner.gif",
