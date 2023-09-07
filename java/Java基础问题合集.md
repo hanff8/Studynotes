@@ -29,4 +29,4 @@ public class Test003 {
 }  
 ```
 假设我们没有参数去调用test(String...)，即test()，
-我们在调用test()的时候会优先调用test()方法。只有当没有test()函数的时候，程序才会走test(String ...)
+我们在调用test()的时候会优先调用test()方法。只有当没有test()函数的时候，我们调，程序才会走test(String ...)

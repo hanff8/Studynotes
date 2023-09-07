@@ -170,3 +170,175 @@ public void validateRequiredProperties() {
 ```
 #### 3.3.1. `BeanFactory`
 ##### 3.3.1.1. `refreshBeanFactory`
+```java
+protected final void refreshBeanFactory() throws BeansException {  
+    // 判断当前ApplicationContext是否存在BeanFactory,存在则销毁所有Bean,并且销毁BeanFactory
+    // 一个应用可以存在多个BeanFactory,这里判断的是当前的ApplicationContext中是否存在BeanFactory
+    if (hasBeanFactory()) {  
+       destroyBeans();  
+       closeBeanFactory();  
+    }  
+    try {  
+    // 初始化DeafaultListableBeanFactory
+       DefaultListableBeanFactory beanFactory = createBeanFactory();  
+       beanFactory.setSerializationId(getId());
+
+	// 设置BeanFactory的两个配置属性：是否允许Bean覆盖、是否允许循环引用
+       customizeBeanFactory(beanFactory);
+         
+   // 加载Bean岛BeanFactory中
+       loadBeanDefinitions(beanFactory);  
+       synchronized (this.beanFactoryMonitor) {  
+          this.beanFactory = beanFactory;  
+       }  
+    }  
+    catch (IOException ex) {  
+       throw new ApplicationContextException("I/O error parsing bean definition source for " + getDisplayName(), ex);  
+    }  
+}
+```
+
+
+##### 3.3.1.2. `DefaultListableBeanFactory`
+继承关系：
+![image.png|500](https://s2.loli.net/2023/09/07/j7xeUrGqSXBCPtF.png)
+
+
+
+##### 3.3.1.3. `BeanDefinition` 
+是 `bean`的一种形式（里面包含了Bean指向的类，是否单例、是否懒加载、Bean的依赖关系等）。BeanFactory中就是保存的BeanDefinition。
+
+```java
+public interface BeanDefinition extends AttributeAccessor, BeanMetadataElement {
+
+	// Bean的生命周期，默认sington和prototype两种，在webApplicationConext中在WebApplicationContext中还会有request, session, globalSession, application, websocket 等
+	String SCOPE_SINGLETON = ConfigurableBeanFactory.SCOPE_SINGLETON;
+	String SCOPE_PROTOTYPE = ConfigurableBeanFactory.SCOPE_PROTOTYPE;
+
+
+	
+	int ROLE_APPLICATION = 0;
+	int ROLE_SUPPORT = 1;
+	int ROLE_INFRASTRUCTURE = 2;
+
+
+	// 父bean
+	void setParentName(@Nullable String parentName);
+	@Nullable
+	String getParentName();
+
+
+	// Bean的类名称
+	void setBeanClassName(@Nullable String beanClassName);
+	@Nullable
+	String getBeanClassName();
+
+	//Bean的Scope
+	void setScope(@Nullable String scope);
+	@Nullable
+	String getScope();
+
+	//懒加载
+	void setLazyInit(boolean lazyInit);
+	boolean isLazyInit();
+
+
+	// 设置当前Bean依赖的2的所有Bean
+	void setDependsOn(@Nullable String... dependsOn);
+	@Nullable
+	// 返回Bean的所有依赖
+	String[] getDependsOn();
+
+	// 设置该Bean是否可以注入到其他Bean中
+	void setAutowireCandidate(boolean autowireCandidate);
+	boolean isAutowireCandidate();
+
+
+	void setPrimary(boolean primary);
+	boolean isPrimary();
+
+
+	void setFactoryBeanName(@Nullable String factoryBeanName);
+	@Nullable
+	String getFactoryBeanName();
+
+
+	void setFactoryMethodName(@Nullable String factoryMethodName);
+
+
+	@Nullable
+	String getFactoryMethodName();
+
+	// 构造器参数
+	ConstructorArgumentValues getConstructorArgumentValues();
+
+
+	default boolean hasConstructorArgumentValues() {
+		return !getConstructorArgumentValues().isEmpty();
+	}
+
+
+	// Bean中的属性值
+	MutablePropertyValues getPropertyValues();
+
+
+	default boolean hasPropertyValues() {
+		return !getPropertyValues().isEmpty();
+	}
+
+
+
+	boolean isSingleton();
+
+	boolean isPrototype();
+
+
+	// 如果这个 Bean 是被设置为 abstract，那么不能实例化，常用于作为 父bean 用于继承
+	boolean isAbstract();
+
+	int getRole();
+
+
+	@Nullable
+	String getDescription();
+
+
+	@Nullable
+	String getResourceDescription();
+
+	@Nullable
+	BeanDefinition getOriginatingBeanDefinition();
+
+}
+
+```
+
+
+##### 3.3.1.4. `loadBeanDefinitions`
+```java
+protected void loadBeanDefinitions(DefaultListableBeanFactory beanFactory) throws BeansException, IOException {  
+    // Create a new XmlBeanDefinitionReader for the given BeanFactory.  
+    XmlBeanDefinitionReader beanDefinitionReader = new XmlBeanDefinitionReader(beanFactory);  
+  
+    // Configure the bean definition reader with this context's  
+    // resource loading environment.    beanDefinitionReader.setEnvironment(this.getEnvironment());  
+    beanDefinitionReader.setResourceLoader(this);  
+    beanDefinitionReader.setEntityResolver(new ResourceEntityResolver(this));  
+  
+    // Allow a subclass to provide custom initialization of the reader,  
+    // then proceed with actually loading the bean definitions.    initBeanDefinitionReader(beanDefinitionReader);  
+    loadBeanDefinitions(beanDefinitionReader);  
+}
+
+protected void loadBeanDefinitions(XmlBeanDefinitionReader reader) throws BeansException, IOException {  
+    Resource[] configResources = getConfigResources();  
+    if (configResources != null) {  
+       reader.loadBeanDefinitions(configResources);  
+    }  
+    String[] configLocations = getConfigLocations();  
+    if (configLocations != null) {  
+       reader.loadBeanDefinitions(configLocations);  
+    }  
+}
+```
+

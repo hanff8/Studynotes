@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "redis/redis基础.md",
+                "file": "java/Spring/Spring-Framework-Study.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/Spring/Spring-Framework-Study.md",
+                "file": "java/Java基础问题合集.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,7 +174,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,11 +191,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d9547393227b624e",
+  "active": "c2f5d41c68d875bf",
   "lastOpenFiles": [
     "redis/redis基础.md",
-    "java/Spring/Spring-Framework-Study.md",
     "java/Java基础问题合集.md",
+    "java/Spring/Spring-Framework-Study.md",
+    "java/Spring/assets/Spring-Framework-Study/image-20230907141519963.png",
+    "java/Spring/assets/Spring-Framework-Study/image-20230907141447023.png",
+    "java/Spring/assets/Spring-Framework-Study",
+    "java/Spring/assets",
     "java/steamAPI/StreamAPI的对比.md",
     "java/Spring",
     "java/steamAPI/一些StreamApi的小技巧.md",
@@ -225,8 +229,6 @@
     "quartz/public/index.xml",
     "quartz/public/sitemap.xml",
     "quartz/public/tags/图.html",
-    "quartz/public/tags/wsl2.html",
-    "quartz/public/tags/string序列化器.html",
     "Pasted image 20230606211050.png",
     "Pasted image 20230608203921.png",
     "Pasted image 20230614165628.png",
@@ -235,12 +237,9 @@
     "Pasted image 20230606210808.png",
     "redis/redisson/redisson源码阅读.md",
     "Config配置列表.md",
-    "wsl/Ubuntu&&wsl相关配置.md",
     "未命名.canvas",
     "未命名 1.canvas",
     "quartz/node_modules/cli-spinner/img/spinner.gif",
-    "quartz/node_modules/psl/browserstack-logo.svg",
-    "quartz/quartz/static/og-image.png",
     "未命名 3.canvas",
     "未命名 2.canvas",
     "未命名 4.canvas",
