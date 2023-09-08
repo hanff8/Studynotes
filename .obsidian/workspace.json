@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/Spring/Spring-Framework-Study.md",
+                "file": "WindowsPowerShell常用命令.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dead350d1b338055",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "gradle/gradle换源.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -33,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "34c32c0e729a7c6e",
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/Spring/Spring-Framework-Study.md",
+                "file": "gradle/gradle换源.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -137,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java/Spring/Spring-Framework-Study.md",
+                "file": "gradle/gradle换源.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java/Spring/Spring-Framework-Study.md"
+                "file": "gradle/gradle换源.md"
               }
             }
           },
@@ -191,11 +204,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c2f5d41c68d875bf",
+  "active": "dead350d1b338055",
   "lastOpenFiles": [
+    "未命名.md",
+    "gradle/gradle换源.md",
+    "gradle",
+    "WindowsPowerShell常用命令.md",
+    "scoop 相关.md",
+    "git/git 操作.md",
+    "SDKman安装与配置.md",
+    "git/git 配置问题.md",
+    "java/Spring/Spring-Framework-Study.md",
     "redis/redis基础.md",
     "java/Java基础问题合集.md",
-    "java/Spring/Spring-Framework-Study.md",
     "java/Spring/assets/Spring-Framework-Study/image-20230907141519963.png",
     "java/Spring/assets/Spring-Framework-Study/image-20230907141447023.png",
     "java/Spring/assets/Spring-Framework-Study",
@@ -206,7 +227,6 @@
     "java/Java-Web.md",
     "java/Java-正则表达式.md",
     "quartz/content/notes/git 配置问题.md",
-    "git/git 配置问题.md",
     "maven/maven 换源.md",
     "maven/自定义archetypoe.md",
     "quartz/content/notes/安装wsl2 ubuntu 并迁移到D盘.md",
@@ -218,8 +238,6 @@
     "quartz/content/notes/WindowsPowerShell常用命令.md",
     "quartz/content/notes/scoop 相关.md",
     "quartz/content/notes/redis基础.md",
-    "quartz/content/notes/index.md",
-    "quartz/content/notes/1761.一个图中连通三元组的最小度数.md",
     "quartz/content/notes",
     "quartz/content",
     "quartz/public/static/og-image.png",
@@ -228,15 +246,11 @@
     "quartz/public/static",
     "quartz/public/index.xml",
     "quartz/public/sitemap.xml",
-    "quartz/public/tags/图.html",
     "Pasted image 20230606211050.png",
     "Pasted image 20230608203921.png",
     "Pasted image 20230614165628.png",
     "redis/assets/redis基础/image-20230901005224248.png",
-    "wsl/WSL2 & ArchLinux via lxrunoffline.md",
     "Pasted image 20230606210808.png",
-    "redis/redisson/redisson源码阅读.md",
-    "Config配置列表.md",
     "未命名.canvas",
     "未命名 1.canvas",
     "quartz/node_modules/cli-spinner/img/spinner.gif",
