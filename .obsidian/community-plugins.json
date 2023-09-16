@@ -15,7 +15,6 @@
   "obsidian-plantuml",
   "drawio-obsidian",
   "templater-obsidian",
-  "obsidian-custom-attachment-location",
-  "obsidian-local-images",
-  "obsidian-image-auto-upload-plugin"
+  "obsidian-image-auto-upload-plugin",
+  "obsidian-to-notion"
 ]

@@ -1,3 +1,7 @@
+---
+link: https://www.notion.so/redisson-7cdef8dc1ec9461b9488c4672640430b
+notionID: 7cdef8dc-1ec9-461b-9488-c4672640430b
+---
 ## 1. 流程图
 #trylock
 获取锁

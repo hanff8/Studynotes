@@ -1,3 +1,7 @@
+---
+link: https://www.notion.so/Spring-Framework-Study-5533f0d516e24be781d11883fd78efc8
+notionID: 5533f0d5-16e2-4be7-81d1-1883fd78efc8
+---
 ## 1. SetConfigLocations
 
 - 创建环境对象ConfiguableEnvironment 
@@ -342,3 +346,127 @@ protected void loadBeanDefinitions(XmlBeanDefinitionReader reader) throws BeansE
 }
 ```
 
+
+## 4. systemproperties 与 systemEnvironment有什么区别
+
+`systemProperties` 和 `systemEnvironment` 是两个不同的概念，它们在计算机编程和操作系统中有不同的用途和含义。
+
+1. **systemProperties**（系统属性）：
+   - `systemProperties` 通常指的是程序运行时可以访问的系统级别的属性或配置信息。这些属性通常存储在系统属性表中，可以通过编程语言或框架的API来获取。
+   - 这些属性包括诸如操作系统的版本、Java虚拟机的配置、程序的启动参数等信息。在Java中，你可以使用`System.getProperty()`方法来访问这些属性。
+   - 例如，在Java中，你可以使用 `System.getProperty("os.name")` 来获取操作系统的名称。
+
+2. **systemEnvironment**（系统环境）：
+   - `systemEnvironment` 通常指的是操作系统级别的环境变量。这些变量包含了有关操作系统和其它系统级别信息的配置。
+   - 环境变量通常用于存储一些全局性的配置，它们可以在不同的程序之间共享。在许多操作系统中，环境变量的值可以在命令行或脚本中设置和检索。
+   - 例如，在Unix/Linux系统中，你可以使用`echo $PATH`来查看`PATH`环境变量的值，该变量定义了系统在哪些目录中查找可执行文件。
+
+总结：`systemProperties` 主要是针对程序运行时的配置和属性，而 `systemEnvironment` 则是关于操作系统环境的全局配置。它们在不同的上下文中使用，但都是管理和控制计算机系统的重要工具。
+
+
+## 5. 依赖注入
+
+Bean创建的生命周期
+	UserService.class-->无参的构造方法--->对象--->依赖注入--->初始化前--->初始化--->初始化后--->放入单例池--->Bean对象
+
+
+推断构造方法
+先 ByType 再ByName
+
+Spring中并没有对代理对象进行`依赖注入`
+
+CGLIB 基于父子类实现的
+
+UserServiceProxy对象--->UserService代理对象
+
+UserServiceProxy.test();
+
+```java
+class UserServiceProxy extends UserService{
+	UserSevice target;
+	
+	public void test(){
+		//切面逻辑@Before
+		target.test
+	}
+}
+
+// 事务管理也是通过aop实现的
+class UserServiceProxy extends UserService{
+	UserSevice target;
+	
+	public void test(){
+		// Spring 事务切面逻辑
+		// @Transactional
+		// 开启事务
+		// 1.用事务管理器建一个数据库连接Conn
+		// 2.conn.autoCommit=false
+		target.test(); //普通对象.test() jdbcTemplate sql1 sql2
+		// conn.commit() conn.rollback()
+	}
+}
+
+// Configuration
+class UserServiceProxy extends UserService{
+	UserSevice target;
+	
+	public void test(){
+		// Spring 事务切面逻辑
+		// @Transactional
+		// 开启事务
+		// 1.用事务管理器建一个数据库连接Conn ThreadLocal<Map<DataSource,Conn>>
+		// 2.conn.autoCommit=false
+		target.test(); //普通对象.test() jdbcTemplate sql1 sql2
+		// conn.commit() conn.rollback()
+	}
+}
+```
+
+@Configurationn AOP @Lazy
+均基于动态代理
+
+
+```java
+
+AppConfig代理对象.jdbcTemplate()
+class AppConfigProxy extends Appconfig{
+	UserSevice target;
+	
+	public void jdbcTemplate(){
+		//代理对象
+		super.jdbcTemplate()
+	}
+	public void dataSource(){
+		// 代理对象
+		super.jdbcTemplate()
+	}
+}
+```
+
+解决循环依赖
+
+三级缓存
+
+一级缓存：singletonObjects
+二级缓存：earlySingletonObjects
+三级缓存：singletonFactories
+
+
+```java
+1. createSet<'Aservice'>
+2. 实例化-->Aservice普通对象-->singletonnFactories.put('Aservice',()->getEarlyBeanReference(beanName,mbd,Aservice普通对象))
+3. 填充BService-->单例池Map-->创建BService
+	1. BService的Bean生命周期
+	2. 实例化-->普通对象
+	3. 填充AService-->单例池Map-->createingSet-->Aservice出现了循环依赖-->earlySingletonObjects-->singletobFactories-->lambda-->执行lambda-->aop-->AService代理对象-->earLySingletonObjects
+	4. 填充其他属性
+	5. 做一些其他的事儿
+4. 填充其他属性
+5. earlySingletonObjects.get('AService')
+6. 做一些其他的事儿
+7. 添加到单例池
+8. creatingSet.remove<'AService'>
+```
+
+
+@excludeFilter 排除ComponentScan指定包名下的某个包/某一类包，根据FilterType决定

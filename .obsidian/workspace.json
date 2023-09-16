@@ -26,6 +26,32 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "WindowsPowerShell常用命令.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4534f3ed273cf4b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ArchLinux/系统迁移.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fde859aee4ac20f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "gradle/gradle换源.md",
                 "mode": "source",
                 "backlinks": true,
@@ -47,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -66,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +132,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 286.5
   },
   "right": {
     "id": "34c32c0e729a7c6e",
@@ -181,6 +207,16 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "74c5482bdf8f47da",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -201,43 +237,44 @@
       "workspaces:管理工作区布局": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian42-brat:BRAT": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-to-notion:Share to notion": false
     }
   },
-  "active": "dead350d1b338055",
+  "active": "fde859aee4ac20f7",
   "lastOpenFiles": [
-    "未命名.md",
-    "gradle/gradle换源.md",
-    "gradle",
-    "WindowsPowerShell常用命令.md",
-    "scoop 相关.md",
-    "git/git 操作.md",
-    "SDKman安装与配置.md",
-    "git/git 配置问题.md",
+    "ArchLinux/遇到的问题.md",
+    "ArchLinux/app.md",
+    "ArchLinux/archlinux-wayland.md",
+    "ArchLinux/pacman-hook 编写.md",
+    "ArchLinux/系统迁移.md",
     "java/Spring/Spring-Framework-Study.md",
+    "java/Spring/webxml.md",
+    "redis/redisson/redisson源码阅读.md",
     "redis/redis基础.md",
-    "java/Java基础问题合集.md",
+    "git/git 操作.md",
+    "git/git 配置问题.md",
+    "设计模式/碎碎念.md",
+    "算法/模板/KMP算法.md",
+    "算法/模板/回溯.md",
+    "算法/模板/二分搜索.md",
+    "算法/模板/二分查找.md",
+    "WindowsPowerShell常用命令.md",
     "java/Spring/assets/Spring-Framework-Study/image-20230907141519963.png",
     "java/Spring/assets/Spring-Framework-Study/image-20230907141447023.png",
+    "gradle/gradle换源.md",
+    "quartz/content/notes/git 配置问题.md",
+    "未命名.md",
+    "gradle",
+    "scoop 相关.md",
+    "SDKman安装与配置.md",
+    "java/Java基础问题合集.md",
     "java/Spring/assets/Spring-Framework-Study",
     "java/Spring/assets",
     "java/steamAPI/StreamAPI的对比.md",
     "java/Spring",
     "java/steamAPI/一些StreamApi的小技巧.md",
     "java/Java-Web.md",
-    "java/Java-正则表达式.md",
-    "quartz/content/notes/git 配置问题.md",
-    "maven/maven 换源.md",
-    "maven/自定义archetypoe.md",
-    "quartz/content/notes/安装wsl2 ubuntu 并迁移到D盘.md",
-    "wsl/安装wsl2 ubuntu 并迁移到D盘.md",
-    "算法/图/1761.一个图中连通三元组的最小度数.md",
-    "redis/redisson/未命名.md",
-    "算法/后缀和数组.md",
-    "quartz/content/notes/WSL2 & ArchLinux via lxrunoffline.md",
-    "quartz/content/notes/WindowsPowerShell常用命令.md",
-    "quartz/content/notes/scoop 相关.md",
-    "quartz/content/notes/redis基础.md",
     "quartz/content/notes",
     "quartz/content",
     "quartz/public/static/og-image.png",
