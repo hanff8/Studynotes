@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法/模板/二分查找.md",
+                "file": "docker/docker 常用命令.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法/模板/二分查找.md",
+                "file": "docker/docker 常用命令.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法/模板/二分查找.md",
+                "file": "docker/docker 常用命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "算法/模板/二分查找.md"
+                "file": "docker/docker 常用命令.md"
               }
             }
           },
@@ -230,8 +230,13 @@
   },
   "active": "4534f3ed273cf4b0",
   "lastOpenFiles": [
-    "算法/模板/二分搜索.md",
+    "docker/idea 远程链接docker.md",
+    "docker/docker 常用命令.md",
+    "WindowsPowerShell常用命令.md",
+    "Scoop windows 安装与配置.md",
+    "scoop 相关.md",
     "算法/模板/二分查找.md",
+    "算法/模板/二分搜索.md",
     "算法/图/1761.一个图中连通三元组的最小度数.md",
     "算法/二进制.md",
     "ShardingSphere/MySQL主从配置.md",
@@ -244,7 +249,6 @@
     "算法/子集型回溯.md",
     "算法/数学技巧.md",
     "算法/后缀和数组.md",
-    "WindowsPowerShell常用命令.md",
     "面试/redis.md",
     "面试/场景.md",
     "面试",
@@ -255,10 +259,6 @@
     "java/Nacos笔记.md",
     "java/Spring/Spring-Framework-Study.md",
     "java/Spring/webxml.md",
-    "java/Spring/Spring注解.md",
-    "代理相关.md",
-    "2023-08-31.md",
-    "wsl/Ubuntu&&wsl相关配置.md",
     "java/Spring/assets/Spring-Framework-Study/image-20230907141519963.png",
     "java/Spring/assets/Spring-Framework-Study/image-20230907141447023.png",
     "gradle",
