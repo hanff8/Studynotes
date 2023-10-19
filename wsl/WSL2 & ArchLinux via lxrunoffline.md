@@ -45,40 +45,30 @@ wsl -d ArchLinux
 ```
 
 
-编辑源
+增加国内源
 
 ```bash
-# 使用explorer.exe打开编辑
-
-cd /etc/pacman.d
-explorer.exe .
-
-# 编辑mirrorlist 文件把china源放在最上面
-
+echo 'https://mirrors.ustc.edu.cn/$repo/os/$arch > /etc/pacman.d/mirrorlist'
 ```
 
-配置pacman下载常用软件
+配置pacman
 ```bash
-pacman -Syy
+pacman -Syu
 pacman-key --init
 pacman-key --populate
 pacman -S base base-devel vim git wget openssh
 ```
 
-创建用户
-
-```bash
-useradd -m hanfx -G wheel
-```
-
-
-设置密码
+用户设置
 
 ```shell
 # root 设置密码
 passwd
 
-# user设置密码
+# 创建用户
+useradd -m hanfx -G wheel
+
+# 设置密码
 passwd hanfx
 
 # 加入wheel组
@@ -93,6 +83,9 @@ vim /etc/sudoers
 
 ```bash
 vim /etc/pacman.conf
+
+取消注释
+Color与ParallerDownload
 
 #尾部添加
 [archlinuxcn]
@@ -142,7 +135,10 @@ zmodule romkatv/powerlevel10k
 
 
 安装Nerdfonts
-[Nerd Fonts - Iconic font aggregator, glyphs/icons collection, & fonts patcher](https://www.nerdfonts.com/font-downloads)
+```shell
+sudo pacman -S paru
+paru -S ttf-maple-sc-nerd
+```
 
 
 #archlinux #wsl2 #lxrunoffline
