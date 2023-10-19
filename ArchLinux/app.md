@@ -1,7 +1,3 @@
----
-link: https://www.notion.so/app-194a008d6c8c469394d93283028dd3cb
-notionID: 194a008d-6c8c-4693-94d9-3283028dd3cb
----
 ## 1. zsh以及美化
 
 - 安装 zim
@@ -22,3 +18,44 @@ zmodule romkatv/powerlevel10k
 zimfw install
 ```
 接着会进入`powerlever10k`的自动配置
+
+## 2. 截图软件
+
+在`x11`中可以使用 `flameshot` 
+```shell
+paru -S flameshot
+```
+
+在`kde-wayland`中我使用的是自带的`Spectacle`，flameshot在非整数缩放的时候会出现问题
+```shell
+paru -S Spectacle
+```
+
+## 3. terminal 终端
+偏向使用的是 `kitty` 
+`paru -S kitty`
+
+如果你使用的`display server`是`wayland`，kitty的高斯模糊与中文输入法在wayland下均不能正常使用，建议在配置中，将其改成`x11`
+```shell
+linux_display_sever    x11
+```
+
+当然如果需要中文输入法支持，还需要在`/etc/environment`中加入如下内容
+```shell
+GLFW_IM_MODULE=ibus
+```
+
+### 3.1. 一些常用的快捷键和命令
+
+打开设置 `ctrl+shift+f2`
+新建 tab 标签页 `ctrl+shift+t`
+在标签页中左右切换 `ctrl+shift+left/right`
+
+切换主题，kitty自带了许多主题
+```shell
+kitten themes
+```
+
+
+
+
