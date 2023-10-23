@@ -56,6 +56,13 @@ GLFW_IM_MODULE=ibus
 kitten themes
 ```
 
+## 4. 电源管理
 
+```shell
+# kde 
+paru -S tlp tlp-rdw x86_energy_perf_policy powerdevil acpuid 
+
+sudo systemctl enable tlp
+```
 
 

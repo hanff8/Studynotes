@@ -16,5 +16,6 @@
   "drawio-obsidian",
   "templater-obsidian",
   "obsidian-image-auto-upload-plugin",
-  "obsidian-to-notion"
+  "obsidian-to-notion",
+  "obsidian-mkdocs-publisher"
 ]

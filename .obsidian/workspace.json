@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WindowsPowerShell常用命令.md",
+                "file": "powershell/WindowsPowerShell常用命令.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WindowsPowerShell常用命令.md",
+                "file": "powershell/WindowsPowerShell常用命令.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wsl/wsl2 ubuntu 迁移.md",
+                "file": "ArchLinux/app.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wsl/wsl2 ubuntu 迁移.md",
+                "file": "ArchLinux/app.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wsl/wsl2 ubuntu 迁移.md",
+                "file": "ArchLinux/app.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wsl/wsl2 ubuntu 迁移.md"
+                "file": "ArchLinux/app.md"
               }
             }
           },
@@ -229,35 +229,37 @@
   },
   "active": "4534f3ed273cf4b0",
   "lastOpenFiles": [
-    "wsl/Ubuntu&&wsl相关配置.md",
+    "wsl/WSL2 安装 ArchLinux.md",
     "wsl/wsl2 ubuntu 迁移.md",
-    "wsl/WSL2 & ArchLinux via lxrunoffline.md",
-    "Spring/定制Bean.md",
-    "WindowsPowerShell常用命令.md",
-    "Scoop windows 安装与配置.md",
-    "scoop 相关.md",
-    "README.md",
-    "总览.md",
-    "Pasted image 20230614165628.png",
-    "Pasted image 20230606211050.png",
+    "wsl/Ubuntu&&wsl相关配置.md",
+    "ArchLinux/遇到的问题.md",
+    "ArchLinux/app.md",
+    "docker/docker 安装.md",
+    "docker/docker 常用命令.md",
+    "docker/idea 远程链接docker.md",
+    "maven/自定义archetypoe.md",
+    "maven/maven 换源.md",
     "git/Git.md",
+    "golang/golang环境搭建.md",
+    "总览.md",
+    "README.md",
+    "powershell/WindowsPowerShell常用命令.md",
+    "powershell",
+    "scoop/Scoop windows 安装与配置.md",
+    "scoop",
     "未命名.canvas",
     "代理相关.md",
+    "Spring/定制Bean.md",
+    "scoop 相关.md",
+    "Pasted image 20230614165628.png",
+    "Pasted image 20230606211050.png",
     "template/export_hugo.md",
-    "ArchLinux/app.md",
     "ArchLinux/pacman-hook 编写.md",
     "git/git 操作.md",
     "ArchLinux/系统迁移.md",
-    "ArchLinux/遇到的问题.md",
     "ArchLinux/archlinux-wayland.md",
     "面试/复盘.md",
     "redis/redis基础.md",
-    "redis/redisson/redisson源码阅读.md",
-    "面试/场景.md",
-    "面试/分布式.md",
-    "面试/MySQL.md",
-    "面试/redis.md",
-    "设计模式/碎碎念.md",
     "ShardingSphere",
     "面试",
     "java/Spring/assets/Spring-Framework-Study/image-20230907141519963.png",
@@ -270,8 +272,6 @@
     "quartz/content",
     "quartz/public/static/og-image.png",
     "quartz/public/static/icon.png",
-    "quartz/public/static/contentIndex.json",
-    "quartz/public/static",
     "Pasted image 20230608203921.png",
     "redis/assets/redis基础/image-20230901005224248.png",
     "Pasted image 20230606210808.png",

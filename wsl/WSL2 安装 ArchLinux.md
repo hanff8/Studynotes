@@ -1,3 +1,7 @@
+---
+share: "true"
+---
+
 ## 1. WSL2 安装
 
 启用WSL
@@ -23,7 +27,7 @@ wsl --set-default-version 2
 
 先安装scoop [[scoop 相关]]
 ``` powershell
-Scoop install lxrunoffline
+scoop install lxrunoffline
 ```
 
 下载ArchLinux boot
