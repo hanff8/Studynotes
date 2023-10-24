@@ -10,7 +10,7 @@
   "listChangedFilesInMessageBody": true,
   "showStatusBar": true,
   "updateSubmodules": true,
-  "gitPath": "/usr/bin/git",
+  "gitPath": "D:\\Applications\\Scoop\\shims\\git.exe",
   "customMessageOnAutoBackup": true,
   "autoBackupAfterFileChange": true,
   "mergeOnPull": true,
