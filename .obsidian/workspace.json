@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ArchLinux/app.md",
+                "file": "redis/redis基础.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,12 +47,25 @@
             }
           },
           {
-            "id": "d9547393227b624e",
+            "id": "3423b9921eb4d781",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/Java基础问题合集.md",
+                "file": "java/steamAPI/一些StreamApi的小技巧.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a4f70c947f68e14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "java/实用API.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -135,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ArchLinux/app.md",
+                "file": "java/实用API.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -163,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ArchLinux/app.md",
+                "file": "java/实用API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ArchLinux/app.md"
+                "file": "java/实用API.md"
               }
             }
           },
@@ -201,7 +214,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -214,9 +229,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
@@ -227,39 +242,39 @@
       "obsidian-to-notion:Share to notion": false
     }
   },
-  "active": "4534f3ed273cf4b0",
+  "active": "9a4f70c947f68e14",
   "lastOpenFiles": [
-    "ArchLinux/pacman-hook 编写.md",
-    "ArchLinux/app.md",
-    "wsl/WSL2 安装 ArchLinux.md",
-    "wsl/wsl2 ubuntu 迁移.md",
-    "wsl/Ubuntu&&wsl相关配置.md",
-    "ArchLinux/遇到的问题.md",
+    "java/steamAPI/一些StreamApi的小技巧.md",
+    "java/Java-Web.md",
+    "java/实用API.md",
+    "java/Java基础问题合集.md",
+    "java/java泛型通配符.md",
+    "java/Nacos笔记.md",
+    "java/Java-正则表达式.md",
+    "java/steamAPI/StreamAPI的对比.md",
+    "java/Spring/Spring-Framework-Study.md",
+    "java/Spring/webxml.md",
+    "java/Spring/Spring注解.md",
+    "算法/二进制.md",
+    "算法/数学技巧.md",
+    "算法/子集型回溯.md",
+    "算法/后缀和数组.md",
+    "算法/图/1761.一个图中连通三元组的最小度数.md",
+    "算法/模板/KMP算法.md",
+    "算法/模板/回溯.md",
+    "算法/模板/二维数组的前缀和.md",
+    "算法/模板/二分搜索.md",
+    "算法/模板/二分查找.md",
     "docker/docker 安装.md",
-    "docker/docker 常用命令.md",
-    "docker/idea 远程链接docker.md",
-    "maven/自定义archetypoe.md",
-    "maven/maven 换源.md",
-    "git/Git.md",
-    "golang/golang环境搭建.md",
-    "总览.md",
-    "README.md",
+    "redis/redis基础.md",
+    "redis/redisson/redisson源码阅读.md",
     "powershell/WindowsPowerShell常用命令.md",
+    "Spring/定制Bean.md",
     "powershell",
-    "scoop/Scoop windows 安装与配置.md",
     "scoop",
     "未命名.canvas",
-    "代理相关.md",
-    "Spring/定制Bean.md",
-    "scoop 相关.md",
     "Pasted image 20230614165628.png",
     "Pasted image 20230606211050.png",
-    "template/export_hugo.md",
-    "git/git 操作.md",
-    "ArchLinux/系统迁移.md",
-    "ArchLinux/archlinux-wayland.md",
-    "面试/复盘.md",
-    "redis/redis基础.md",
     "ShardingSphere",
     "面试",
     "java/Spring/assets/Spring-Framework-Study/image-20230907141519963.png",
