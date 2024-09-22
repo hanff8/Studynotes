@@ -1,0 +1,33 @@
+{
+  "NextButton": true,
+  "notionAPINext": "",
+  "databaseIDNext": "",
+  "bannerUrl": "",
+  "notionUser": "hanff",
+  "NotionLinkDisplay": true,
+  "proxy": "",
+  "GeneralButton": true,
+  "tagButton": true,
+  "customTitleButton": false,
+  "customTitleName": "",
+  "notionAPIGeneral": "",
+  "databaseIDGeneral": "",
+  "CustomButton": false,
+  "CustomValues": "",
+  "notionAPICustom": "",
+  "databaseIDCustom": "",
+  "databaseDetails": {
+    "MyBlog": {
+      "format": "next",
+      "fullName": "hanff8's notion blog",
+      "abName": "MyBlog",
+      "notionAPI": "secret_JolBGc0DfzSjwcqHHhwli9KXtGqSibGkZUiu8VsBvQn",
+      "databaseID": "620a6adb90f64ad4a57b8e77efd8048f",
+      "tagButton": true,
+      "customTitleButton": false,
+      "customTitleName": "",
+      "customProperties": [],
+      "saved": true
+    }
+  }
+}

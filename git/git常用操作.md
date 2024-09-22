@@ -1,3 +1,21 @@
+---
+title: git常用操作
+titleicon: 📎
+date: 2024-09-22
+coverurl: 
+type: Post
+slug: 
+status: Published
+category: Git
+summary: 
+icon: fa-solid fa-camera
+tags:
+  - git
+  - github
+NotionID-MyBlog: 109fc6bd-fc68-81ce-8f31-ee83a9a4b585
+link-MyBlog: https://hanff.notion.site/git-109fc6bdfc6881ce8f31ee83a9a4b585
+---
+
 ## 1. Git常用命令
 
 ```shell

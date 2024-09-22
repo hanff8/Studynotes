@@ -1,5 +1,20 @@
 ---
-share: "true"
+title: wsl2 ubuntu 迁移
+titleicon: 📎
+date: 2024-09-22
+coverurl: 
+type: Post
+slug: 
+status: Published
+category: WSL2
+summary: 
+icon: fa-solid fa-camera
+tags:
+  - wsl2
+  - ubuntu
+  - windows
+NotionID-MyBlog: 8c2bc4e9-27a6-48c6-9741-c59bcf7059f7
+link-MyBlog: https://hanff.notion.site/wsl2-ubuntu-8c2bc4e927a648c69741c59bcf7059f7
 ---
 
 自动开启wsl环境并安装Ubuntu 子系统

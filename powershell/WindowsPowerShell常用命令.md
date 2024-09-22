@@ -1,3 +1,21 @@
+---
+title: WindowsPowerShell常用命令
+titleicon: 📎
+date: 2024-09-22
+coverurl: 
+type: Post
+slug: 
+status: Published
+category: Powershell
+summary: 
+icon: fa-solid fa-camera
+tags:
+  - powershell
+  - windows
+NotionID-MyBlog: 109fc6bd-fc68-8130-b232-e2bd1f83be28
+link-MyBlog: https://hanff.notion.site/WindowsPowerShell-109fc6bdfc688130b232e2bd1f83be28
+---
+
 ## 1. 解决端口占用
 ```powershell
 #找出占用端口的进程号
@@ -15,4 +33,3 @@ taskkill /f /t /pid $pid
 - `/PID processid` 指定要终止的进程的 PID。使用 TaskList 取得 PID。
 
 
-#powershell

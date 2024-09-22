@@ -1,3 +1,20 @@
+---
+title: Archlinux装机必备
+titleicon: 📎
+date: 2024-09-22
+coverurl: 
+type: Post
+slug: 
+status: Published
+category: Archlinux
+summary: 
+icon: fa-solid fa-camera
+tags:
+  - archlinux
+NotionID-MyBlog: 109fc6bd-fc68-81e1-ba6e-ddaab7a28251
+link-MyBlog: https://hanff.notion.site/Archlinux-109fc6bdfc6881e1ba6eddaab7a28251
+---
+
 ## 1. zsh以及美化
 
 - 安装 zim

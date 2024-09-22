@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "powershell/WindowsPowerShell常用命令.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dead350d1b338055",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "powershell/WindowsPowerShell常用命令.md",
+                "file": "template/notionnext.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,20 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/steamAPI/一些StreamApi的小技巧.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a4f70c947f68e14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "java/实用API.md",
+                "file": "java/Nacos笔记.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -148,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/实用API.md",
+                "file": "java/Nacos笔记.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -176,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java/实用API.md",
+                "file": "java/Nacos笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "java/实用API.md"
+                "file": "java/Nacos笔记.md"
               }
             }
           },
@@ -239,37 +213,42 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian42-brat:BRAT": false,
       "templater-obsidian:Templater": false,
-      "obsidian-to-notion:Share to notion": false
+      "share-to-notionnext:分享到 NotionNext": false
     }
   },
-  "active": "9a4f70c947f68e14",
+  "active": "a67aa8ec2bd2296e",
   "lastOpenFiles": [
-    "java/steamAPI/一些StreamApi的小技巧.md",
-    "java/Java-Web.md",
-    "java/实用API.md",
     "java/Java基础问题合集.md",
     "java/java泛型通配符.md",
-    "java/Nacos笔记.md",
+    "java/Java-Web.md",
     "java/Java-正则表达式.md",
-    "java/steamAPI/StreamAPI的对比.md",
-    "java/Spring/Spring-Framework-Study.md",
-    "java/Spring/webxml.md",
-    "java/Spring/Spring注解.md",
-    "算法/二进制.md",
-    "算法/数学技巧.md",
-    "算法/子集型回溯.md",
-    "算法/后缀和数组.md",
-    "算法/图/1761.一个图中连通三元组的最小度数.md",
-    "算法/模板/KMP算法.md",
-    "算法/模板/回溯.md",
-    "算法/模板/二维数组的前缀和.md",
-    "算法/模板/二分搜索.md",
-    "算法/模板/二分查找.md",
+    "java/实用API.md",
+    "wsl/wsl2 ubuntu 迁移.md",
+    "wsl/Ubuntu&&wsl相关配置.md",
+    "template/notionnext.md",
+    "总览.md",
+    "README.md",
+    "Untitled.md",
+    "未命名.md",
+    "scoop/Scoop windows 安装与配置.md",
+    "git/git常用操作.md",
+    "flutter/学习笔记.md",
+    "docker/idea 远程链接docker.md",
+    "docker/docker 常用命令.md",
     "docker/docker 安装.md",
-    "redis/redis基础.md",
-    "redis/redisson/redisson源码阅读.md",
-    "powershell/WindowsPowerShell常用命令.md",
-    "Spring/定制Bean.md",
+    "dart/Iterable.md",
+    "ArchLinux/系统迁移.md",
+    "ArchLinux/Archlinux装机必备.md",
+    "ArchLinux/pacman-hook 编写.md",
+    "ArchLinux/遇到的问题.md",
+    "android/泛型.md",
+    "面试/分布式.md",
+    "面试/场景.md",
+    "template",
+    "flutter",
+    "mac",
+    "dart",
+    "android",
     "powershell",
     "scoop",
     "未命名.canvas",
@@ -280,11 +259,6 @@
     "java/Spring/assets/Spring-Framework-Study/image-20230907141519963.png",
     "java/Spring/assets/Spring-Framework-Study/image-20230907141447023.png",
     "gradle",
-    "java/Spring/assets/Spring-Framework-Study",
-    "java/Spring/assets",
-    "java/Spring",
-    "quartz/content/notes",
-    "quartz/content",
     "quartz/public/static/og-image.png",
     "quartz/public/static/icon.png",
     "Pasted image 20230608203921.png",
