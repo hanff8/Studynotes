@@ -4,50 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "fc8e2112489dc63d",
+        "id": "a6319f1469fcca74",
         "type": "tabs",
         "children": [
           {
-            "id": "c2f5d41c68d875bf",
+            "id": "0c5d7023f752469c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "template/notionnext.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4534f3ed273cf4b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "redis/redis基础.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3423b9921eb4d781",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "java/Nacos笔记.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,23 +44,7 @@
             }
           },
           {
-            "id": "f31944524321c0bf",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "f426b3374f65465c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "a67aa8ec2bd2296e",
+            "id": "c640c4c8fb4f7eb9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -100,9 +52,17 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "9be97e0848ec5d50",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -122,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "java/Nacos笔记.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -150,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "java/Nacos笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "java/Nacos笔记.md"
-              }
+              "state": {}
             }
           },
           {
@@ -216,8 +172,27 @@
       "share-to-notionnext:分享到 NotionNext": false
     }
   },
-  "active": "a67aa8ec2bd2296e",
+  "active": "c640c4c8fb4f7eb9",
   "lastOpenFiles": [
+    "2024-09-22.md",
+    "redis/redis基础.md",
+    "未命名.md",
+    "mac/Untitled Diagram.svg",
+    "总览.md",
+    "WSL.md",
+    "wsl/WSL2 安装 ArchLinux.md",
+    "设计模式/碎碎念.md",
+    "算法/模板/二分查找.md",
+    "算法/模板/数位dp/题目一.md",
+    "算法/子集型回溯.md",
+    "算法/数学技巧.md",
+    "算法/后缀和数组.md",
+    "算法/图/1761.一个图中连通三元组的最小度数.md",
+    "算法/模板/KMP算法.md",
+    "算法/模板/回溯.md",
+    "算法/模板/二维数组的前缀和.md",
+    "算法/模板/二分搜索.md",
+    "java/Nacos笔记.md",
     "java/Java基础问题合集.md",
     "java/java泛型通配符.md",
     "java/Java-Web.md",
@@ -226,24 +201,6 @@
     "wsl/wsl2 ubuntu 迁移.md",
     "wsl/Ubuntu&&wsl相关配置.md",
     "template/notionnext.md",
-    "总览.md",
-    "README.md",
-    "Untitled.md",
-    "未命名.md",
-    "scoop/Scoop windows 安装与配置.md",
-    "git/git常用操作.md",
-    "flutter/学习笔记.md",
-    "docker/idea 远程链接docker.md",
-    "docker/docker 常用命令.md",
-    "docker/docker 安装.md",
-    "dart/Iterable.md",
-    "ArchLinux/系统迁移.md",
-    "ArchLinux/Archlinux装机必备.md",
-    "ArchLinux/pacman-hook 编写.md",
-    "ArchLinux/遇到的问题.md",
-    "android/泛型.md",
-    "面试/分布式.md",
-    "面试/场景.md",
     "template",
     "flutter",
     "mac",
@@ -265,7 +222,6 @@
     "redis/assets/redis基础/image-20230901005224248.png",
     "Pasted image 20230606210808.png",
     "未命名 1.canvas",
-    "quartz/node_modules/cli-spinner/img/spinner.gif",
     "未命名 3.canvas",
     "未命名 2.canvas",
     "未命名 4.canvas",
